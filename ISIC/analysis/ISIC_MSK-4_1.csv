@@ -1,0 +1,948 @@
+,age_approx,benign_malignant,diagnosis,diagnosis_confirm_type,melanocytic,name,sex
+0,50,benign,nevus,histopathology,True,ISIC_0012653,female
+1,30,benign,nevus,histopathology,True,ISIC_0012654,female
+2,35,benign,nevus,histopathology,True,ISIC_0012655,female
+3,45,benign,nevus,histopathology,True,ISIC_0012656,male
+4,20,benign,nevus,histopathology,True,ISIC_0012657,female
+5,40,benign,nevus,histopathology,True,ISIC_0012658,male
+6,30,benign,nevus,histopathology,True,ISIC_0012659,female
+7,45,benign,nevus,histopathology,True,ISIC_0012660,male
+8,45,benign,seborrheic keratosis,histopathology,False,ISIC_0012661,male
+9,75,benign,nevus,histopathology,True,ISIC_0012662,male
+10,25,benign,nevus,histopathology,True,ISIC_0012663,male
+11,40,benign,nevus,histopathology,True,ISIC_0012664,female
+12,70,benign,nevus,histopathology,True,ISIC_0012665,female
+13,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012666,male
+14,55,benign,nevus,histopathology,True,ISIC_0012669,male
+15,60,benign,nevus,histopathology,True,ISIC_0012670,male
+16,60,benign,nevus,histopathology,True,ISIC_0012671,male
+17,45,benign,nevus,histopathology,True,ISIC_0012672,male
+18,45,benign,nevus,histopathology,True,ISIC_0012673,male
+19,45,benign,nevus,histopathology,True,ISIC_0012674,male
+20,45,benign,nevus,histopathology,True,ISIC_0012675,male
+21,50,benign,nevus,histopathology,True,ISIC_0012676,male
+22,50,benign,nevus,histopathology,True,ISIC_0012677,male
+23,70,malignant,melanoma,histopathology,True,ISIC_0012678,male
+24,70,benign,nevus,histopathology,True,ISIC_0012679,female
+25,45,benign,nevus,histopathology,True,ISIC_0012680,female
+26,45,benign,nevus,histopathology,True,ISIC_0012681,female
+27,40,benign,nevus,histopathology,True,ISIC_0012682,male
+28,40,benign,nevus,histopathology,True,ISIC_0012683,male
+29,35,benign,nevus,histopathology,True,ISIC_0012684,male
+30,55,benign,nevus,histopathology,True,ISIC_0012685,male
+31,45,benign,nevus,histopathology,True,ISIC_0012690,female
+32,55,benign,nevus,histopathology,True,ISIC_0012692,female
+33,65,benign,seborrheic keratosis,histopathology,False,ISIC_0012693,female
+34,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012696,male
+35,70,benign,seborrheic keratosis,histopathology,False,ISIC_0012697,female
+36,25,benign,nevus,histopathology,True,ISIC_0012699,male
+37,25,benign,nevus,histopathology,True,ISIC_0012700,male
+38,70,malignant,melanoma,histopathology,True,ISIC_0012701,male
+39,50,benign,nevus,histopathology,True,ISIC_0012702,male
+40,65,benign,seborrheic keratosis,histopathology,False,ISIC_0012704,female
+41,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012705,male
+42,40,benign,nevus,histopathology,True,ISIC_0012706,male
+43,55,benign,nevus,histopathology,True,ISIC_0012708,female
+44,40,benign,nevus,histopathology,True,ISIC_0012709,female
+45,55,benign,nevus,histopathology,True,ISIC_0012710,female
+46,65,benign,nevus,histopathology,True,ISIC_0012711,female
+47,35,benign,nevus,histopathology,True,ISIC_0012713,female
+48,80,malignant,melanoma,histopathology,True,ISIC_0012715,female
+49,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012719,female
+50,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012720,female
+51,40,benign,nevus,histopathology,True,ISIC_0012721,male
+52,70,benign,nevus,histopathology,True,ISIC_0012722,male
+53,25,benign,nevus,histopathology,True,ISIC_0012725,female
+54,45,benign,nevus,histopathology,True,ISIC_0012726,female
+55,45,benign,nevus,histopathology,True,ISIC_0012735,female
+56,30,benign,nevus,histopathology,True,ISIC_0012737,female
+57,50,benign,nevus,histopathology,True,ISIC_0012739,female
+58,25,benign,nevus,histopathology,True,ISIC_0012740,male
+59,25,benign,nevus,histopathology,True,ISIC_0012741,female
+60,60,benign,nevus,histopathology,True,ISIC_0012742,female
+61,65,benign,nevus,histopathology,True,ISIC_0012744,female
+62,55,benign,nevus,histopathology,True,ISIC_0012746,female
+63,85,malignant,melanoma,histopathology,True,ISIC_0012749,male
+64,55,malignant,melanoma,histopathology,True,ISIC_0012756,male
+65,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012757,female
+66,45,malignant,melanoma,histopathology,True,ISIC_0012758,male
+67,80,benign,nevus,histopathology,True,ISIC_0012768,male
+68,75,benign,nevus,histopathology,True,ISIC_0012770,female
+69,50,benign,seborrheic keratosis,histopathology,False,ISIC_0012772,female
+70,85,benign,seborrheic keratosis,histopathology,False,ISIC_0012773,male
+71,50,benign,nevus,histopathology,True,ISIC_0012777,female
+72,70,benign,seborrheic keratosis,histopathology,False,ISIC_0012785,female
+73,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012786,male
+74,60,benign,nevus,histopathology,True,ISIC_0012787,female
+75,35,benign,nevus,histopathology,True,ISIC_0012788,female
+76,25,benign,nevus,histopathology,True,ISIC_0012789,female
+77,80,benign,seborrheic keratosis,histopathology,False,ISIC_0012790,female
+78,45,benign,seborrheic keratosis,histopathology,False,ISIC_0012792,male
+79,45,benign,nevus,histopathology,True,ISIC_0012793,male
+80,85,benign,seborrheic keratosis,histopathology,False,ISIC_0012800,male
+81,45,benign,nevus,histopathology,True,ISIC_0012803,male
+82,25,benign,nevus,histopathology,True,ISIC_0012804,male
+83,65,benign,nevus,histopathology,True,ISIC_0012806,female
+84,55,benign,seborrheic keratosis,histopathology,False,ISIC_0012810,female
+85,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012811,male
+86,55,benign,seborrheic keratosis,histopathology,False,ISIC_0012813,male
+87,40,benign,nevus,histopathology,True,ISIC_0012814,female
+88,70,benign,nevus,histopathology,True,ISIC_0012823,male
+89,45,benign,nevus,histopathology,True,ISIC_0012826,female
+90,45,benign,nevus,histopathology,True,ISIC_0012827,female
+91,70,benign,seborrheic keratosis,histopathology,False,ISIC_0012828,female
+92,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012833,female
+93,60,benign,nevus,histopathology,True,ISIC_0012835,female
+94,40,benign,nevus,histopathology,True,ISIC_0012836,female
+95,80,benign,nevus,histopathology,True,ISIC_0012837,male
+96,85,benign,seborrheic keratosis,histopathology,False,ISIC_0012840,male
+97,60,benign,nevus,histopathology,True,ISIC_0012844,male
+98,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012845,male
+99,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012848,male
+100,40,benign,seborrheic keratosis,histopathology,False,ISIC_0012851,female
+101,70,benign,seborrheic keratosis,histopathology,False,ISIC_0012852,female
+102,45,benign,seborrheic keratosis,histopathology,False,ISIC_0012854,male
+103,60,benign,nevus,histopathology,True,ISIC_0012855,female
+104,70,benign,seborrheic keratosis,histopathology,False,ISIC_0012856,female
+105,45,benign,nevus,histopathology,True,ISIC_0012865,male
+106,40,benign,nevus,histopathology,True,ISIC_0012871,female
+107,50,benign,nevus,histopathology,True,ISIC_0012873,male
+108,50,benign,nevus,histopathology,True,ISIC_0012876,female
+109,45,benign,nevus,histopathology,True,ISIC_0012877,male
+110,45,benign,nevus,histopathology,True,ISIC_0012878,male
+111,45,benign,nevus,histopathology,True,ISIC_0012879,female
+112,80,benign,seborrheic keratosis,histopathology,False,ISIC_0012880,female
+113,60,benign,nevus,histopathology,True,ISIC_0012883,female
+114,65,benign,seborrheic keratosis,histopathology,False,ISIC_0012884,male
+115,45,malignant,melanoma,histopathology,True,ISIC_0012887,male
+116,20,benign,nevus,histopathology,True,ISIC_0012888,female
+117,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012889,female
+118,35,benign,nevus,histopathology,True,ISIC_0012891,male
+119,40,benign,nevus,histopathology,True,ISIC_0012897,female
+120,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012898,female
+121,60,benign,nevus,histopathology,True,ISIC_0012901,female
+122,50,benign,seborrheic keratosis,histopathology,False,ISIC_0012902,male
+123,60,benign,nevus,histopathology,True,ISIC_0012903,female
+124,60,benign,nevus,histopathology,True,ISIC_0012904,female
+125,60,benign,nevus,histopathology,True,ISIC_0012905,female
+126,70,benign,nevus,histopathology,True,ISIC_0012907,male
+127,50,benign,nevus,histopathology,True,ISIC_0012911,female
+128,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012927,male
+129,60,benign,seborrheic keratosis,histopathology,False,ISIC_0012928,female
+130,70,malignant,melanoma,histopathology,True,ISIC_0012930,female
+131,65,benign,seborrheic keratosis,histopathology,False,ISIC_0012932,female
+132,50,benign,nevus,histopathology,True,ISIC_0012939,male
+133,50,benign,nevus,histopathology,True,ISIC_0012940,female
+134,65,benign,nevus,histopathology,True,ISIC_0012941,female
+135,40,benign,nevus,histopathology,True,ISIC_0012944,male
+136,60,benign,nevus,histopathology,True,ISIC_0012945,female
+137,30,benign,nevus,histopathology,True,ISIC_0012949,female
+138,55,benign,nevus,histopathology,True,ISIC_0012950,female
+139,45,benign,seborrheic keratosis,histopathology,False,ISIC_0012952,female
+140,80,benign,seborrheic keratosis,histopathology,False,ISIC_0012955,female
+141,60,benign,nevus,histopathology,True,ISIC_0012956,female
+142,55,benign,nevus,histopathology,True,ISIC_0012957,male
+143,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012959,male
+144,55,benign,nevus,histopathology,True,ISIC_0012961,male
+145,80,benign,seborrheic keratosis,histopathology,False,ISIC_0012962,male
+146,50,indeterminate,nevus,histopathology,True,ISIC_0012965,male
+147,55,benign,nevus,histopathology,True,ISIC_0012966,male
+148,60,benign,nevus,histopathology,True,ISIC_0012967,female
+149,55,benign,nevus,histopathology,True,ISIC_0012969,male
+150,30,benign,nevus,histopathology,True,ISIC_0012970,female
+151,50,benign,seborrheic keratosis,histopathology,False,ISIC_0012974,female
+152,60,benign,nevus,histopathology,True,ISIC_0012976,female
+153,40,benign,nevus,histopathology,True,ISIC_0012981,female
+154,50,benign,nevus,histopathology,True,ISIC_0012982,female
+155,75,benign,seborrheic keratosis,histopathology,False,ISIC_0012986,female
+156,60,benign,nevus,histopathology,True,ISIC_0012987,female
+157,45,malignant,melanoma,histopathology,True,ISIC_0012988,male
+158,45,malignant,melanoma,histopathology,True,ISIC_0012989,male
+159,45,malignant,melanoma,histopathology,True,ISIC_0012990,male
+160,50,benign,seborrheic keratosis,histopathology,False,ISIC_0012998,female
+161,60,benign,nevus,histopathology,True,ISIC_0012999,male
+162,40,benign,nevus,histopathology,True,ISIC_0013000,male
+163,40,benign,nevus,histopathology,True,ISIC_0013001,male
+164,65,benign,nevus,histopathology,True,ISIC_0013007,male
+165,35,benign,nevus,histopathology,True,ISIC_0013010,female
+166,55,benign,nevus,histopathology,True,ISIC_0013012,male
+167,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013014,female
+168,25,benign,nevus,histopathology,True,ISIC_0013015,female
+169,45,benign,nevus,histopathology,True,ISIC_0013023,female
+170,30,benign,nevus,histopathology,True,ISIC_0013024,female
+171,25,benign,nevus,histopathology,True,ISIC_0013025,male
+172,25,benign,nevus,histopathology,True,ISIC_0013026,male
+173,25,benign,nevus,histopathology,True,ISIC_0013027,male
+174,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013030,male
+175,55,benign,nevus,histopathology,True,ISIC_0013031,female
+176,55,benign,nevus,histopathology,True,ISIC_0013032,male
+177,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013033,female
+178,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013034,female
+179,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013035,male
+180,40,benign,nevus,histopathology,True,ISIC_0013037,female
+181,65,benign,nevus,histopathology,True,ISIC_0013039,male
+182,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013040,female
+183,55,benign,nevus,histopathology,True,ISIC_0013044,female
+184,60,benign,nevus,histopathology,True,ISIC_0013045,male
+185,50,benign,nevus,histopathology,True,ISIC_0013047,male
+186,25,benign,nevus,histopathology,True,ISIC_0013048,male
+187,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013052,female
+188,55,benign,nevus,histopathology,True,ISIC_0013053,female
+189,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013054,female
+190,45,benign,nevus,histopathology,True,ISIC_0013055,female
+191,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013056,female
+192,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013059,female
+193,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013063,female
+194,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013065,female
+195,55,benign,nevus,histopathology,True,ISIC_0013070,female
+196,55,benign,nevus,histopathology,True,ISIC_0013071,female
+197,70,malignant,melanoma,histopathology,True,ISIC_0013072,female
+198,70,malignant,melanoma,histopathology,True,ISIC_0013073,female
+199,50,benign,nevus,histopathology,True,ISIC_0013075,male
+200,80,malignant,melanoma,histopathology,True,ISIC_0013079,male
+201,80,benign,nevus,histopathology,True,ISIC_0013080,male
+202,30,benign,nevus,histopathology,True,ISIC_0013082,male
+203,45,benign,nevus,histopathology,True,ISIC_0013084,female
+204,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013085,male
+205,45,benign,nevus,histopathology,True,ISIC_0013086,male
+206,45,benign,nevus,histopathology,True,ISIC_0013087,male
+207,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013088,female
+208,40,benign,seborrheic keratosis,histopathology,False,ISIC_0013089,female
+209,40,benign,nevus,histopathology,True,ISIC_0013090,female
+210,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013092,male
+211,45,benign,nevus,histopathology,True,ISIC_0013094,male
+212,70,benign,nevus,histopathology,True,ISIC_0013096,male
+213,25,benign,nevus,histopathology,True,ISIC_0013097,female
+214,85,benign,nevus,histopathology,True,ISIC_0013104,male
+215,65,benign,nevus,histopathology,True,ISIC_0013106,male
+216,50,benign,nevus,histopathology,True,ISIC_0013109,female
+217,45,benign,nevus,histopathology,True,ISIC_0013112,male
+218,35,benign,nevus,histopathology,True,ISIC_0013114,female
+219,65,benign,nevus,histopathology,True,ISIC_0013118,male
+220,55,benign,nevus,histopathology,True,ISIC_0013120,female
+221,30,benign,nevus,histopathology,True,ISIC_0013121,male
+222,70,benign,nevus,histopathology,True,ISIC_0013124,male
+223,45,benign,nevus,histopathology,True,ISIC_0013126,female
+224,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013127,female
+225,40,benign,nevus,histopathology,True,ISIC_0013128,female
+226,40,benign,seborrheic keratosis,histopathology,False,ISIC_0013129,female
+227,15,benign,nevus,histopathology,True,ISIC_0013132,male
+228,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013134,female
+229,55,benign,nevus,histopathology,True,ISIC_0013136,male
+230,40,benign,nevus,histopathology,True,ISIC_0013140,male
+231,45,malignant,melanoma,histopathology,True,ISIC_0013141,male
+232,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013146,male
+233,45,benign,nevus,histopathology,True,ISIC_0013147,male
+234,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013150,male
+235,30,benign,nevus,histopathology,True,ISIC_0013155,female
+236,70,benign,nevus,histopathology,True,ISIC_0013159,male
+237,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013160,male
+238,50,benign,nevus,histopathology,True,ISIC_0013163,female
+239,60,benign,nevus,histopathology,True,ISIC_0013164,male
+240,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013165,female
+241,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013166,male
+242,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013167,male
+243,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013169,male
+244,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013170,male
+245,40,benign,nevus,histopathology,True,ISIC_0013172,female
+246,45,benign,nevus,histopathology,True,ISIC_0013173,female
+247,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013174,female
+248,30,benign,nevus,histopathology,True,ISIC_0013176,female
+249,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013177,female
+250,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013178,female
+251,50,benign,nevus,histopathology,True,ISIC_0013181,male
+252,55,malignant,melanoma,histopathology,True,ISIC_0013184,male
+253,70,benign,nevus,histopathology,True,ISIC_0013187,female
+254,60,benign,nevus,histopathology,True,ISIC_0013188,female
+255,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013189,male
+256,45,benign,nevus,histopathology,True,ISIC_0013190,male
+257,50,benign,nevus,histopathology,True,ISIC_0013191,female
+258,40,benign,nevus,histopathology,True,ISIC_0013192,female
+259,60,benign,nevus,histopathology,True,ISIC_0013193,male
+260,35,benign,nevus,histopathology,True,ISIC_0013196,female
+261,25,benign,nevus,histopathology,True,ISIC_0013197,female
+262,80,malignant,melanoma,histopathology,True,ISIC_0013198,male
+263,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013200,female
+264,50,benign,nevus,histopathology,True,ISIC_0013201,female
+265,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013203,female
+266,45,benign,nevus,histopathology,True,ISIC_0013204,male
+267,55,benign,nevus,histopathology,True,ISIC_0013205,female
+268,65,benign,nevus,histopathology,True,ISIC_0013207,female
+269,65,benign,nevus,histopathology,True,ISIC_0013208,female
+270,30,benign,nevus,histopathology,True,ISIC_0013212,female
+271,55,benign,nevus,histopathology,True,ISIC_0013213,male
+272,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013215,female
+273,50,benign,nevus,histopathology,True,ISIC_0013216,female
+274,60,benign,nevus,histopathology,True,ISIC_0013217,female
+275,60,benign,nevus,histopathology,True,ISIC_0013219,female
+276,60,benign,nevus,histopathology,True,ISIC_0013220,female
+277,75,benign,nevus,histopathology,True,ISIC_0013222,male
+278,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013223,female
+279,45,benign,nevus,histopathology,True,ISIC_0013224,female
+280,35,benign,nevus,histopathology,True,ISIC_0013226,female
+281,45,benign,nevus,histopathology,True,ISIC_0013227,female
+282,55,benign,nevus,histopathology,True,ISIC_0013229,female
+283,40,benign,nevus,histopathology,True,ISIC_0013230,female
+284,70,malignant,melanoma,histopathology,True,ISIC_0013232,female
+285,80,benign,nevus,histopathology,True,ISIC_0013233,male
+286,45,benign,nevus,histopathology,True,ISIC_0013235,male
+287,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013236,male
+288,75,benign,nevus,histopathology,True,ISIC_0013238,female
+289,85,malignant,melanoma,histopathology,True,ISIC_0013242,male
+290,65,benign,nevus,histopathology,True,ISIC_0013243,male
+291,45,benign,nevus,histopathology,True,ISIC_0013244,male
+292,75,benign,nevus,histopathology,True,ISIC_0013248,female
+293,60,benign,nevus,histopathology,True,ISIC_0013249,female
+294,30,benign,nevus,histopathology,True,ISIC_0013257,male
+295,65,malignant,melanoma,histopathology,True,ISIC_0013258,male
+296,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013268,female
+297,45,benign,nevus,histopathology,True,ISIC_0013269,female
+298,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013270,male
+299,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013271,female
+300,65,benign,nevus,histopathology,True,ISIC_0013274,male
+301,40,benign,nevus,histopathology,True,ISIC_0013275,female
+302,70,malignant,melanoma,histopathology,True,ISIC_0013277,male
+303,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013281,female
+304,35,benign,nevus,histopathology,True,ISIC_0013287,female
+305,75,benign,nevus,histopathology,True,ISIC_0013288,male
+306,45,benign,nevus,histopathology,True,ISIC_0013291,female
+307,60,benign,nevus,histopathology,True,ISIC_0013294,female
+308,50,benign,nevus,histopathology,True,ISIC_0013302,female
+309,70,benign,nevus,histopathology,True,ISIC_0013304,female
+310,70,benign,nevus,histopathology,True,ISIC_0013306,female
+311,70,benign,nevus,histopathology,True,ISIC_0013310,female
+312,35,benign,nevus,histopathology,True,ISIC_0013311,male
+313,40,benign,nevus,histopathology,True,ISIC_0013314,female
+314,40,benign,nevus,histopathology,True,ISIC_0013315,female
+315,60,malignant,seborrheic keratosis,histopathology,False,ISIC_0013316,female
+316,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013319,female
+317,70,benign,nevus,histopathology,True,ISIC_0013320,male
+318,80,malignant,melanoma,histopathology,True,ISIC_0013321,female
+319,45,benign,nevus,histopathology,True,ISIC_0013325,male
+320,60,benign,nevus,histopathology,True,ISIC_0013326,male
+321,55,benign,nevus,histopathology,True,ISIC_0013329,female
+322,55,benign,nevus,histopathology,True,ISIC_0013330,female
+323,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013333,female
+324,80,malignant,melanoma,histopathology,True,ISIC_0013334,male
+325,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013335,male
+326,55,benign,nevus,histopathology,True,ISIC_0013340,female
+327,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013341,male
+328,40,benign,nevus,histopathology,True,ISIC_0013342,female
+329,25,benign,nevus,histopathology,True,ISIC_0013346,female
+330,50,benign,nevus,histopathology,True,ISIC_0013355,female
+331,55,benign,nevus,histopathology,True,ISIC_0013356,female
+332,70,malignant,melanoma,histopathology,True,ISIC_0013359,male
+333,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013360,female
+334,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013364,female
+335,50,malignant,melanoma,histopathology,True,ISIC_0013365,female
+336,55,benign,nevus,histopathology,True,ISIC_0013369,female
+337,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013370,female
+338,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013371,female
+339,85,malignant,melanoma,histopathology,True,ISIC_0013374,female
+340,60,benign,nevus,histopathology,True,ISIC_0013378,female
+341,40,benign,nevus,histopathology,True,ISIC_0013383,male
+342,75,benign,nevus,histopathology,True,ISIC_0013385,female
+343,35,benign,nevus,histopathology,True,ISIC_0013390,male
+344,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013393,male
+345,25,benign,nevus,histopathology,True,ISIC_0013394,female
+346,45,benign,nevus,histopathology,True,ISIC_0013395,male
+347,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013397,female
+348,20,indeterminate/benign,nevus,histopathology,True,ISIC_0013398,female
+349,40,benign,nevus,histopathology,True,ISIC_0013399,male
+350,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013400,male
+351,45,benign,nevus,histopathology,True,ISIC_0013403,male
+352,65,benign,nevus,histopathology,True,ISIC_0013405,female
+353,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013409,female
+354,75,benign,nevus,histopathology,True,ISIC_0013410,female
+355,70,malignant,melanoma,histopathology,True,ISIC_0013411,male
+356,70,malignant,melanoma,histopathology,True,ISIC_0013414,male
+357,35,benign,nevus,histopathology,True,ISIC_0013416,female
+358,35,benign,nevus,histopathology,True,ISIC_0013417,female
+359,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013421,female
+360,70,benign,nevus,histopathology,True,ISIC_0013423,male
+361,70,benign,nevus,histopathology,True,ISIC_0013424,male
+362,70,benign,nevus,histopathology,True,ISIC_0013425,male
+363,65,malignant,melanoma,histopathology,True,ISIC_0013427,male
+364,55,benign,nevus,histopathology,True,ISIC_0013428,female
+365,75,malignant,melanoma,histopathology,True,ISIC_0013429,female
+366,15,benign,nevus,histopathology,True,ISIC_0013430,male
+367,65,benign,nevus,histopathology,True,ISIC_0013432,male
+368,40,benign,nevus,histopathology,True,ISIC_0013433,female
+369,75,benign,nevus,histopathology,True,ISIC_0013434,male
+370,20,benign,nevus,histopathology,True,ISIC_0013437,male
+371,65,benign,nevus,histopathology,True,ISIC_0013438,female
+372,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013443,male
+373,80,malignant,melanoma,histopathology,True,ISIC_0013455,male
+374,50,benign,nevus,histopathology,True,ISIC_0013456,female
+375,50,malignant,melanoma,histopathology,True,ISIC_0013457,female
+376,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013458,female
+377,45,malignant,melanoma,histopathology,True,ISIC_0013459,male
+378,65,benign,nevus,histopathology,True,ISIC_0013461,male
+379,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013465,female
+380,80,malignant,melanoma,histopathology,True,ISIC_0013472,female
+381,85,malignant,melanoma,histopathology,True,ISIC_0013473,male
+382,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013474,male
+383,75,benign,nevus,histopathology,True,ISIC_0013480,male
+384,60,benign,nevus,histopathology,True,ISIC_0013486,male
+385,60,benign,nevus,histopathology,True,ISIC_0013487,male
+386,60,benign,nevus,histopathology,True,ISIC_0013488,male
+387,60,benign,nevus,histopathology,True,ISIC_0013489,male
+388,60,malignant,melanoma,histopathology,True,ISIC_0013490,male
+389,60,malignant,melanoma,histopathology,True,ISIC_0013491,male
+390,65,benign,nevus,histopathology,True,ISIC_0013492,male
+391,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013493,male
+392,65,benign,nevus,histopathology,True,ISIC_0013494,male
+393,65,benign,nevus,histopathology,True,ISIC_0013495,male
+394,65,malignant,melanoma,histopathology,True,ISIC_0013497,male
+395,65,benign,nevus,histopathology,True,ISIC_0013498,male
+396,65,malignant,melanoma,histopathology,True,ISIC_0013499,male
+397,65,malignant,melanoma,histopathology,True,ISIC_0013500,male
+398,65,malignant,melanoma,histopathology,True,ISIC_0013501,male
+399,70,benign,nevus,histopathology,True,ISIC_0013511,male
+400,70,benign,nevus,histopathology,True,ISIC_0013512,male
+401,70,benign,nevus,histopathology,True,ISIC_0013516,female
+402,70,benign,nevus,histopathology,True,ISIC_0013517,female
+403,65,malignant,melanoma,histopathology,True,ISIC_0013518,male
+404,50,benign,nevus,histopathology,True,ISIC_0013523,male
+405,50,malignant,melanoma,histopathology,True,ISIC_0013525,male
+406,50,benign,nevus,histopathology,True,ISIC_0013526,male
+407,50,benign,nevus,histopathology,True,ISIC_0013527,male
+408,55,benign,nevus,histopathology,True,ISIC_0013529,male
+409,55,malignant,melanoma,histopathology,True,ISIC_0013530,female
+410,85,malignant,melanoma,histopathology,True,ISIC_0013549,male
+411,75,benign,nevus,histopathology,True,ISIC_0013552,male
+412,75,benign,nevus,histopathology,True,ISIC_0013553,male
+413,75,benign,nevus,histopathology,True,ISIC_0013554,male
+414,55,benign,nevus,histopathology,True,ISIC_0013558,male
+415,55,benign,nevus,histopathology,True,ISIC_0013559,male
+416,55,benign,nevus,histopathology,True,ISIC_0013561,male
+417,55,benign,nevus,histopathology,True,ISIC_0013562,male
+418,75,malignant,melanoma,histopathology,True,ISIC_0013565,male
+419,70,malignant,melanoma,histopathology,True,ISIC_0013567,female
+420,80,benign,nevus,histopathology,True,ISIC_0013568,female
+421,50,malignant,melanoma,histopathology,True,ISIC_0013572,male
+422,60,malignant,melanoma,histopathology,True,ISIC_0013573,male
+423,60,malignant,melanoma,histopathology,True,ISIC_0013577,male
+424,60,malignant,melanoma,histopathology,True,ISIC_0013578,male
+425,60,malignant,melanoma,histopathology,True,ISIC_0013579,male
+426,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013580,female
+427,60,malignant,melanoma,histopathology,True,ISIC_0013581,female
+428,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013584,female
+429,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013585,female
+430,85,malignant,melanoma,histopathology,True,ISIC_0013588,female
+431,25,benign,nevus,histopathology,True,ISIC_0013592,female
+432,80,malignant,melanoma,histopathology,True,ISIC_0013594,male
+433,80,benign,nevus,histopathology,True,ISIC_0013595,male
+434,80,benign,nevus,histopathology,True,ISIC_0013596,male
+435,80,benign,nevus,histopathology,True,ISIC_0013597,male
+436,80,benign,nevus,histopathology,True,ISIC_0013599,male
+437,80,benign,nevus,histopathology,True,ISIC_0013600,male
+438,80,benign,nevus,histopathology,True,ISIC_0013601,male
+439,80,benign,nevus,histopathology,True,ISIC_0013602,male
+440,80,benign,nevus,histopathology,True,ISIC_0013603,male
+441,85,malignant,melanoma,histopathology,True,ISIC_0013606,male
+442,80,malignant,melanoma,histopathology,True,ISIC_0013610,female
+443,85,malignant,melanoma,histopathology,True,ISIC_0013615,male
+444,60,malignant,melanoma,histopathology,True,ISIC_0013617,male
+445,65,malignant,melanoma,histopathology,True,ISIC_0013618,male
+446,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013621,male
+447,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013625,male
+448,65,malignant,melanoma,histopathology,True,ISIC_0013626,male
+449,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013632,male
+450,75,malignant,melanoma,histopathology,True,ISIC_0013634,female
+451,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013635,female
+452,55,malignant,melanoma,histopathology,True,ISIC_0013636,female
+453,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013637,male
+454,50,malignant,melanoma,histopathology,True,ISIC_0013639,male
+455,60,benign,nevus,histopathology,True,ISIC_0013643,female
+456,50,malignant,melanoma,histopathology,True,ISIC_0013644,female
+457,80,malignant,melanoma,histopathology,True,ISIC_0013651,male
+458,75,malignant,melanoma,histopathology,True,ISIC_0013652,female
+459,85,benign,nevus,histopathology,True,ISIC_0013656,female
+460,55,malignant,melanoma,histopathology,True,ISIC_0013663,female
+461,55,benign,nevus,histopathology,True,ISIC_0013664,female
+462,50,benign,seborrheic keratosis,histopathology,False,ISIC_0013667,female
+463,70,benign,nevus,histopathology,True,ISIC_0013670,male
+464,55,malignant,melanoma,histopathology,True,ISIC_0013671,male
+465,55,malignant,melanoma,histopathology,True,ISIC_0013672,male
+466,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013673,female
+467,60,malignant,melanoma,histopathology,True,ISIC_0013674,female
+468,60,benign,nevus,histopathology,True,ISIC_0013675,female
+469,45,indeterminate/benign,nevus,histopathology,True,ISIC_0013676,male
+470,55,malignant,melanoma,histopathology,True,ISIC_0013678,male
+471,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013680,male
+472,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013682,male
+473,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013684,male
+474,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013685,male
+475,35,benign,seborrheic keratosis,histopathology,False,ISIC_0013687,female
+476,40,benign,nevus,histopathology,True,ISIC_0013688,female
+477,40,benign,nevus,histopathology,True,ISIC_0013689,female
+478,40,benign,nevus,histopathology,True,ISIC_0013690,female
+479,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013691,female
+480,45,benign,nevus,histopathology,True,ISIC_0013695,female
+481,70,malignant,melanoma,histopathology,True,ISIC_0013696,male
+482,40,malignant,melanoma,histopathology,True,ISIC_0013702,male
+483,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013706,female
+484,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013707,female
+485,85,benign,seborrheic keratosis,histopathology,False,ISIC_0013708,female
+486,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013709,male
+487,60,benign,nevus,histopathology,True,ISIC_0013712,female
+488,50,benign,nevus,histopathology,True,ISIC_0013713,female
+489,75,benign,nevus,histopathology,True,ISIC_0013719,male
+490,80,benign,nevus,histopathology,True,ISIC_0013721,male
+491,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013725,male
+492,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013731,male
+493,75,malignant,melanoma,histopathology,True,ISIC_0013733,male
+494,55,malignant,melanoma,histopathology,True,ISIC_0013736,male
+495,35,benign,nevus,histopathology,True,ISIC_0013737,female
+496,35,benign,nevus,histopathology,True,ISIC_0013738,female
+497,50,malignant,melanoma,histopathology,True,ISIC_0013739,female
+498,70,malignant,melanoma,histopathology,True,ISIC_0013740,male
+499,70,benign,seborrheic keratosis,histopathology,False,ISIC_0013742,male
+500,40,benign,nevus,histopathology,True,ISIC_0013747,male
+501,40,benign,nevus,histopathology,True,ISIC_0013748,male
+502,40,benign,nevus,histopathology,True,ISIC_0013749,male
+503,50,benign,nevus,histopathology,True,ISIC_0013758,female
+504,80,malignant,melanoma,histopathology,True,ISIC_0013762,male
+505,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013764,male
+506,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013765,male
+507,65,malignant,melanoma,histopathology,True,ISIC_0013766,male
+508,65,malignant,melanoma,histopathology,True,ISIC_0013767,male
+509,70,benign,nevus,histopathology,True,ISIC_0013772,male
+510,60,malignant,melanoma,histopathology,True,ISIC_0013775,male
+511,75,malignant,melanoma,histopathology,True,ISIC_0013777,male
+512,55,benign,nevus,histopathology,True,ISIC_0013778,male
+513,60,benign,seborrheic keratosis,histopathology,False,ISIC_0013782,female
+514,70,malignant,melanoma,histopathology,True,ISIC_0013783,male
+515,50,benign,nevus,histopathology,True,ISIC_0013789,female
+516,40,benign,nevus,histopathology,True,ISIC_0013792,female
+517,40,benign,nevus,histopathology,True,ISIC_0013793,female
+518,45,benign,nevus,histopathology,True,ISIC_0013794,female
+519,45,benign,nevus,histopathology,True,ISIC_0013795,female
+520,45,benign,nevus,histopathology,True,ISIC_0013796,female
+521,45,benign,nevus,histopathology,True,ISIC_0013797,female
+522,45,benign,nevus,histopathology,True,ISIC_0013798,female
+523,45,benign,nevus,histopathology,True,ISIC_0013799,female
+524,45,benign,nevus,histopathology,True,ISIC_0013800,female
+525,45,benign,nevus,histopathology,True,ISIC_0013801,female
+526,45,benign,nevus,histopathology,True,ISIC_0013802,female
+527,45,benign,nevus,histopathology,True,ISIC_0013803,female
+528,45,benign,nevus,histopathology,True,ISIC_0013804,female
+529,45,benign,nevus,histopathology,True,ISIC_0013805,female
+530,45,benign,nevus,histopathology,True,ISIC_0013806,female
+531,45,benign,nevus,histopathology,True,ISIC_0013807,female
+532,50,benign,nevus,histopathology,True,ISIC_0013808,female
+533,65,indeterminate,nevus,histopathology,True,ISIC_0013809,male
+534,75,malignant,melanoma,histopathology,True,ISIC_0013813,male
+535,75,malignant,melanoma,histopathology,True,ISIC_0013814,male
+536,65,malignant,melanoma,histopathology,True,ISIC_0013815,female
+537,40,benign,nevus,histopathology,True,ISIC_0013816,male
+538,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013817,male
+539,80,benign,nevus,histopathology,True,ISIC_0013819,male
+540,70,malignant,melanoma,histopathology,True,ISIC_0013828,female
+541,55,benign,nevus,histopathology,True,ISIC_0013830,female
+542,50,malignant,melanoma,histopathology,True,ISIC_0013831,female
+543,65,malignant,melanoma,histopathology,True,ISIC_0013832,male
+544,70,malignant,melanoma,histopathology,True,ISIC_0013833,male
+545,40,benign,nevus,histopathology,True,ISIC_0013835,female
+546,30,benign,nevus,histopathology,True,ISIC_0013836,female
+547,40,benign,nevus,histopathology,True,ISIC_0013837,female
+548,55,malignant,melanoma,histopathology,True,ISIC_0013839,female
+549,80,malignant,melanoma,histopathology,True,ISIC_0013840,male
+550,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013841,female
+551,65,malignant,melanoma,histopathology,True,ISIC_0013842,male
+552,65,benign,nevus,histopathology,True,ISIC_0013843,male
+553,70,malignant,melanoma,histopathology,True,ISIC_0013844,male
+554,70,malignant,melanoma,histopathology,True,ISIC_0013845,male
+555,80,malignant,melanoma,histopathology,True,ISIC_0013861,male
+556,80,benign,nevus,histopathology,True,ISIC_0013862,male
+557,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013863,male
+558,55,benign,seborrheic keratosis,histopathology,False,ISIC_0013864,male
+559,45,malignant,melanoma,histopathology,True,ISIC_0013865,female
+560,75,malignant,melanoma,histopathology,True,ISIC_0013867,female
+561,60,malignant,melanoma,histopathology,True,ISIC_0013874,male
+562,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013876,female
+563,65,benign,nevus,histopathology,True,ISIC_0013879,female
+564,80,benign,nevus,histopathology,True,ISIC_0013886,female
+565,85,benign,nevus,histopathology,True,ISIC_0013888,female
+566,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013890,male
+567,50,benign,nevus,histopathology,True,ISIC_0013891,male
+568,40,indeterminate,nevus,histopathology,True,ISIC_0013896,female
+569,40,benign,nevus,histopathology,True,ISIC_0013897,female
+570,40,benign,nevus,histopathology,True,ISIC_0013898,female
+571,75,malignant,melanoma,histopathology,True,ISIC_0013908,male
+572,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013910,male
+573,75,benign,nevus,histopathology,True,ISIC_0013911,male
+574,55,malignant,melanoma,histopathology,True,ISIC_0013917,male
+575,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013918,male
+576,75,benign,nevus,histopathology,True,ISIC_0013921,male
+577,80,benign,nevus,histopathology,True,ISIC_0013922,male
+578,75,malignant,melanoma,histopathology,True,ISIC_0013925,female
+579,80,benign,seborrheic keratosis,histopathology,False,ISIC_0013927,female
+580,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013929,male
+581,75,benign,seborrheic keratosis,histopathology,False,ISIC_0013933,male
+582,60,benign,nevus,histopathology,True,ISIC_0013935,female
+583,25,malignant,melanoma,histopathology,True,ISIC_0013936,male
+584,40,benign,nevus,histopathology,True,ISIC_0013942,male
+585,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013945,female
+586,50,benign,nevus,histopathology,True,ISIC_0013946,male
+587,70,malignant,melanoma,histopathology,True,ISIC_0013948,female
+588,70,malignant,melanoma,histopathology,True,ISIC_0013953,male
+589,45,benign,seborrheic keratosis,histopathology,False,ISIC_0013958,female
+590,35,benign,nevus,histopathology,True,ISIC_0013961,female
+591,35,benign,nevus,histopathology,True,ISIC_0013962,female
+592,60,benign,nevus,histopathology,True,ISIC_0013965,female
+593,65,benign,nevus,histopathology,True,ISIC_0013966,female
+594,65,benign,nevus,histopathology,True,ISIC_0013967,female
+595,80,malignant,melanoma,histopathology,True,ISIC_0013969,female
+596,60,benign,nevus,histopathology,True,ISIC_0013970,female
+597,45,benign,nevus,histopathology,True,ISIC_0013971,female
+598,70,malignant,melanoma,histopathology,True,ISIC_0013972,male
+599,80,malignant,melanoma,histopathology,True,ISIC_0013975,female
+600,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013977,female
+601,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013980,female
+602,65,benign,seborrheic keratosis,histopathology,False,ISIC_0013981,female
+603,80,benign,nevus,histopathology,True,ISIC_0013982,female
+604,60,benign,nevus,histopathology,True,ISIC_0013983,male
+605,60,malignant,melanoma,histopathology,True,ISIC_0013984,male
+606,60,malignant,melanoma,histopathology,True,ISIC_0013986,female
+607,60,malignant,melanoma,histopathology,True,ISIC_0013987,female
+608,60,malignant,melanoma,histopathology,True,ISIC_0013988,female
+609,65,malignant,melanoma,histopathology,True,ISIC_0013995,male
+610,65,benign,nevus,histopathology,True,ISIC_0013996,female
+611,65,malignant,melanoma,histopathology,True,ISIC_0013997,male
+612,45,benign,nevus,histopathology,True,ISIC_0013998,female
+613,50,benign,nevus,histopathology,True,ISIC_0014001,female
+614,40,benign,nevus,histopathology,True,ISIC_0014004,male
+615,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014006,male
+616,50,malignant,melanoma,histopathology,True,ISIC_0014013,male
+617,45,benign,nevus,histopathology,True,ISIC_0014026,male
+618,55,malignant,melanoma,histopathology,True,ISIC_0014027,male
+619,35,benign,seborrheic keratosis,histopathology,False,ISIC_0014028,female
+620,35,benign,seborrheic keratosis,histopathology,False,ISIC_0014029,female
+621,35,benign,seborrheic keratosis,histopathology,False,ISIC_0014031,female
+622,60,benign,seborrheic keratosis,histopathology,False,ISIC_0014032,male
+623,80,malignant,melanoma,histopathology,True,ISIC_0014037,male
+624,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014038,male
+625,55,malignant,melanoma,histopathology,True,ISIC_0014044,female
+626,70,benign,nevus,histopathology,True,ISIC_0014045,male
+627,70,benign,nevus,histopathology,True,ISIC_0014046,female
+628,75,malignant,melanoma,histopathology,True,ISIC_0014049,male
+629,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014055,female
+630,50,malignant,melanoma,histopathology,True,ISIC_0014059,male
+631,60,malignant,melanoma,histopathology,True,ISIC_0014061,female
+632,60,malignant,melanoma,histopathology,True,ISIC_0014062,female
+633,50,benign,nevus,histopathology,True,ISIC_0014066,male
+634,50,benign,nevus,histopathology,True,ISIC_0014069,female
+635,70,malignant,melanoma,histopathology,True,ISIC_0014072,male
+636,70,benign,nevus,histopathology,True,ISIC_0014073,male
+637,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014074,male
+638,70,malignant,melanoma,histopathology,True,ISIC_0014076,male
+639,70,malignant,melanoma,histopathology,True,ISIC_0014077,male
+640,70,malignant,melanoma,histopathology,True,ISIC_0014079,male
+641,60,benign,nevus,histopathology,True,ISIC_0014080,male
+642,60,benign,nevus,histopathology,True,ISIC_0014081,male
+643,80,malignant,melanoma,histopathology,True,ISIC_0014082,male
+644,65,benign,seborrheic keratosis,histopathology,False,ISIC_0014083,female
+645,45,malignant,melanoma,histopathology,True,ISIC_0014088,female
+646,45,benign,nevus,histopathology,True,ISIC_0014089,female
+647,65,benign,nevus,histopathology,True,ISIC_0014090,female
+648,65,malignant,melanoma,histopathology,True,ISIC_0014092,female
+649,45,benign,nevus,histopathology,True,ISIC_0014093,female
+650,45,benign,nevus,histopathology,True,ISIC_0014094,female
+651,85,malignant,melanoma,histopathology,True,ISIC_0014099,female
+652,70,malignant,melanoma,histopathology,True,ISIC_0014103,male
+653,80,malignant,melanoma,histopathology,True,ISIC_0014108,male
+654,70,malignant,melanoma,histopathology,True,ISIC_0014110,male
+655,40,benign,nevus,histopathology,True,ISIC_0014114,male
+656,45,benign,nevus,histopathology,True,ISIC_0014117,female
+657,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014120,female
+658,50,malignant,melanoma,histopathology,True,ISIC_0014127,male
+659,60,malignant,melanoma,histopathology,True,ISIC_0014129,female
+660,80,benign,nevus,histopathology,True,ISIC_0014131,male
+661,50,malignant,melanoma,histopathology,True,ISIC_0014132,male
+662,85,malignant,melanoma,histopathology,True,ISIC_0014133,male
+663,75,malignant,melanoma,histopathology,True,ISIC_0014136,female
+664,80,benign,seborrheic keratosis,histopathology,False,ISIC_0014139,female
+665,85,malignant,melanoma,histopathology,True,ISIC_0014144,male
+666,70,malignant,melanoma,histopathology,True,ISIC_0014148,male
+667,75,benign,nevus,histopathology,True,ISIC_0014149,female
+668,50,benign,nevus,histopathology,True,ISIC_0014150,male
+669,80,malignant,melanoma,histopathology,True,ISIC_0014151,male
+670,75,malignant,melanoma,histopathology,True,ISIC_0014156,male
+671,55,malignant,melanoma,histopathology,True,ISIC_0014157,male
+672,25,benign,nevus,histopathology,True,ISIC_0014158,female
+673,55,malignant,melanoma,histopathology,True,ISIC_0014160,female
+674,45,benign,nevus,histopathology,True,ISIC_0014162,female
+675,70,malignant,melanoma,histopathology,True,ISIC_0014163,male
+676,45,benign,nevus,histopathology,True,ISIC_0014164,male
+677,80,benign,nevus,histopathology,True,ISIC_0014166,male
+678,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014169,male
+679,70,malignant,melanoma,histopathology,True,ISIC_0014171,male
+680,55,malignant,melanoma,histopathology,True,ISIC_0014173,male
+681,50,benign,nevus,histopathology,True,ISIC_0014174,female
+682,65,benign,seborrheic keratosis,histopathology,False,ISIC_0014177,male
+683,70,benign,nevus,histopathology,True,ISIC_0014178,male
+684,70,benign,seborrheic keratosis,histopathology,False,ISIC_0014179,male
+685,70,malignant,melanoma,histopathology,True,ISIC_0014181,male
+686,85,malignant,melanoma,histopathology,True,ISIC_0014183,male
+687,50,benign,nevus,histopathology,True,ISIC_0014185,female
+688,75,malignant,melanoma,histopathology,True,ISIC_0014186,male
+689,80,malignant,melanoma,histopathology,True,ISIC_0014187,female
+690,85,malignant,melanoma,histopathology,True,ISIC_0014189,male
+691,80,malignant,melanoma,histopathology,True,ISIC_0014190,female
+692,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014191,male
+693,25,benign,nevus,histopathology,True,ISIC_0014195,female
+694,65,benign,nevus,histopathology,True,ISIC_0014197,female
+695,55,benign,nevus,histopathology,True,ISIC_0014211,male
+696,60,benign,seborrheic keratosis,histopathology,False,ISIC_0014212,female
+697,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014216,male
+698,80,malignant,melanoma,histopathology,True,ISIC_0014217,male
+699,65,malignant,melanoma,histopathology,True,ISIC_0014219,female
+700,85,malignant,melanoma,histopathology,True,ISIC_0014221,male
+701,70,malignant,melanoma,histopathology,True,ISIC_0014222,male
+702,75,benign,nevus,histopathology,True,ISIC_0014225,female
+703,75,malignant,melanoma,histopathology,True,ISIC_0014229,female
+704,80,malignant,melanoma,histopathology,True,ISIC_0014233,female
+705,55,malignant,melanoma,histopathology,True,ISIC_0014238,female
+706,60,benign,nevus,histopathology,True,ISIC_0014248,female
+707,85,malignant,melanoma,histopathology,True,ISIC_0014249,male
+708,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014251,male
+709,60,indeterminate,nevus,histopathology,True,ISIC_0014253,female
+710,65,malignant,melanoma,histopathology,True,ISIC_0014255,male
+711,55,benign,nevus,histopathology,True,ISIC_0014263,male
+712,55,benign,seborrheic keratosis,histopathology,False,ISIC_0014264,male
+713,85,malignant,melanoma,histopathology,True,ISIC_0014270,female
+714,60,benign,seborrheic keratosis,histopathology,False,ISIC_0014272,male
+715,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014273,male
+716,50,benign,nevus,histopathology,True,ISIC_0014274,male
+717,55,benign,seborrheic keratosis,histopathology,False,ISIC_0014278,male
+718,50,malignant,melanoma,histopathology,True,ISIC_0014284,male
+719,80,benign,nevus,histopathology,True,ISIC_0014286,female
+720,65,malignant,melanoma,histopathology,True,ISIC_0014288,female
+721,60,malignant,melanoma,histopathology,True,ISIC_0014289,male
+722,60,malignant,melanoma,histopathology,True,ISIC_0014290,female
+723,60,malignant,melanoma,histopathology,True,ISIC_0014291,male
+724,45,benign,nevus,histopathology,True,ISIC_0014299,female
+725,85,malignant,melanoma,histopathology,True,ISIC_0014302,male
+726,80,malignant,melanoma,histopathology,True,ISIC_0014308,female
+727,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014310,female
+728,45,benign,seborrheic keratosis,histopathology,False,ISIC_0014311,male
+729,60,malignant,melanoma,histopathology,True,ISIC_0014316,female
+730,65,benign,nevus,histopathology,True,ISIC_0014317,male
+731,70,malignant,melanoma,histopathology,True,ISIC_0014319,female
+732,80,malignant,melanoma,histopathology,True,ISIC_0014324,male
+733,70,malignant,melanoma,histopathology,True,ISIC_0014325,female
+734,80,malignant,melanoma,histopathology,True,ISIC_0014327,female
+735,60,benign,nevus,histopathology,True,ISIC_0014328,female
+736,60,malignant,melanoma,histopathology,True,ISIC_0014331,female
+737,80,malignant,melanoma,histopathology,True,ISIC_0014336,male
+738,85,malignant,melanoma,histopathology,True,ISIC_0014337,male
+739,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014341,female
+740,35,benign,nevus,histopathology,True,ISIC_0014346,male
+741,65,malignant,melanoma,histopathology,True,ISIC_0014347,male
+742,80,malignant,melanoma,histopathology,True,ISIC_0014349,male
+743,85,benign,nevus,histopathology,True,ISIC_0014353,male
+744,65,malignant,melanoma,histopathology,True,ISIC_0014357,male
+745,75,malignant,melanoma,histopathology,True,ISIC_0014360,male
+746,70,malignant,melanoma,histopathology,True,ISIC_0014361,male
+747,40,benign,nevus,histopathology,True,ISIC_0014365,female
+748,70,malignant,melanoma,histopathology,True,ISIC_0014366,female
+749,25,malignant,melanoma,histopathology,True,ISIC_0014369,male
+750,80,malignant,melanoma,histopathology,True,ISIC_0014372,male
+751,65,benign,seborrheic keratosis,histopathology,False,ISIC_0014382,male
+752,75,malignant,melanoma,histopathology,True,ISIC_0014385,male
+753,65,benign,seborrheic keratosis,histopathology,False,ISIC_0014386,male
+754,55,benign,seborrheic keratosis,histopathology,False,ISIC_0014392,male
+755,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014393,female
+756,70,benign,nevus,histopathology,True,ISIC_0014394,male
+757,70,malignant,melanoma,histopathology,True,ISIC_0014395,male
+758,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014397,female
+759,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014409,male
+760,45,benign,seborrheic keratosis,histopathology,False,ISIC_0014410,female
+761,80,benign,seborrheic keratosis,histopathology,False,ISIC_0014419,male
+762,55,malignant,melanoma,histopathology,True,ISIC_0014422,female
+763,80,malignant,melanoma,histopathology,True,ISIC_0014423,female
+764,55,malignant,melanoma,histopathology,True,ISIC_0014428,female
+765,25,benign,nevus,histopathology,True,ISIC_0014430,female
+766,40,benign,nevus,histopathology,True,ISIC_0014431,female
+767,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014432,female
+768,65,benign,nevus,histopathology,True,ISIC_0014433,male
+769,35,malignant,melanoma,histopathology,True,ISIC_0014434,female
+770,35,benign,nevus,histopathology,True,ISIC_0014438,male
+771,50,benign,nevus,histopathology,True,ISIC_0014440,female
+772,55,benign,nevus,histopathology,True,ISIC_0014441,female
+773,55,benign,nevus,histopathology,True,ISIC_0014453,male
+774,65,malignant,melanoma,histopathology,True,ISIC_0014454,female
+775,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014457,female
+776,40,benign,nevus,histopathology,True,ISIC_0014458,female
+777,60,benign,nevus,histopathology,True,ISIC_0014469,female
+778,60,benign,nevus,histopathology,True,ISIC_0014470,female
+779,85,benign,nevus,histopathology,True,ISIC_0014473,male
+780,70,benign,seborrheic keratosis,histopathology,False,ISIC_0014474,male
+781,50,benign,nevus,histopathology,True,ISIC_0014475,female
+782,80,malignant,melanoma,histopathology,True,ISIC_0014476,male
+783,65,malignant,melanoma,histopathology,True,ISIC_0014478,male
+784,65,malignant,melanoma,histopathology,True,ISIC_0014480,male
+785,85,malignant,melanoma,histopathology,True,ISIC_0014486,female
+786,60,malignant,melanoma,histopathology,True,ISIC_0014489,female
+787,35,benign,nevus,histopathology,True,ISIC_0014490,female
+788,35,benign,nevus,histopathology,True,ISIC_0014498,female
+789,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014500,female
+790,70,malignant,melanoma,histopathology,True,ISIC_0014501,female
+791,45,benign,nevus,histopathology,True,ISIC_0014502,male
+792,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014503,female
+793,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014504,male
+794,80,malignant,melanoma,histopathology,True,ISIC_0014506,female
+795,65,malignant,melanoma,histopathology,True,ISIC_0014507,male
+796,40,benign,nevus,histopathology,True,ISIC_0014511,female
+797,70,malignant,melanoma,histopathology,True,ISIC_0014513,female
+798,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014515,female
+799,70,benign,nevus,histopathology,True,ISIC_0014516,male
+800,70,malignant,melanoma,histopathology,True,ISIC_0014518,male
+801,45,benign,nevus,histopathology,True,ISIC_0014522,female
+802,75,malignant,melanoma,histopathology,True,ISIC_0014525,male
+803,65,benign,seborrheic keratosis,histopathology,False,ISIC_0014526,female
+804,65,malignant,melanoma,histopathology,True,ISIC_0014527,male
+805,80,benign,nevus,histopathology,True,ISIC_0014529,female
+806,75,benign,seborrheic keratosis,histopathology,False,ISIC_0014535,female
+807,85,benign,seborrheic keratosis,histopathology,False,ISIC_0014537,male
+808,70,malignant,melanoma,histopathology,True,ISIC_0014541,male
+809,70,malignant,melanoma,histopathology,True,ISIC_0014542,male
+810,55,malignant,melanoma,histopathology,True,ISIC_0014543,female
+811,55,malignant,melanoma,histopathology,True,ISIC_0014545,female
+812,65,malignant,melanoma,histopathology,True,ISIC_0014546,female
+813,65,benign,nevus,histopathology,True,ISIC_0014547,female
+814,65,malignant,melanoma,histopathology,True,ISIC_0014548,female
+815,50,benign,seborrheic keratosis,histopathology,False,ISIC_0014554,female
+816,85,malignant,melanoma,histopathology,True,ISIC_0014557,male
+817,75,malignant,melanoma,histopathology,True,ISIC_0014558,male
+818,75,malignant,melanoma,histopathology,True,ISIC_0014559,male
+819,50,benign,nevus,histopathology,True,ISIC_0015936,female
+820,30,benign,nevus,histopathology,True,ISIC_0015937,female
+821,40,benign,nevus,histopathology,True,ISIC_0015938,female
+822,50,benign,nevus,histopathology,True,ISIC_0015939,male
+823,50,benign,nevus,histopathology,True,ISIC_0015940,male
+824,10,benign,nevus,histopathology,True,ISIC_0015941,female
+825,30,benign,nevus,histopathology,True,ISIC_0015942,female
+826,65,benign,nevus,histopathology,True,ISIC_0015943,female
+827,50,benign,nevus,histopathology,True,ISIC_0015944,male
+828,25,benign,nevus,histopathology,True,ISIC_0015945,female
+829,25,benign,nevus,histopathology,True,ISIC_0015946,female
+830,40,benign,nevus,histopathology,True,ISIC_0015947,female
+831,30,benign,nevus,histopathology,True,ISIC_0015948,female
+832,35,benign,nevus,histopathology,True,ISIC_0015949,female
+833,35,benign,nevus,histopathology,True,ISIC_0015950,female
+834,85,benign,nevus,histopathology,True,ISIC_0015951,female
+835,85,benign,nevus,histopathology,True,ISIC_0015952,female
+836,55,benign,nevus,histopathology,True,ISIC_0015953,male
+837,30,benign,nevus,histopathology,True,ISIC_0015954,male
+838,30,benign,nevus,histopathology,True,ISIC_0015955,male
+839,45,benign,nevus,histopathology,True,ISIC_0015956,male
+840,40,benign,nevus,histopathology,True,ISIC_0015957,female
+841,50,benign,nevus,histopathology,True,ISIC_0015958,female
+842,60,benign,nevus,histopathology,True,ISIC_0015959,male
+843,45,benign,nevus,histopathology,True,ISIC_0015960,male
+844,45,benign,nevus,histopathology,True,ISIC_0015961,male
+845,30,benign,nevus,histopathology,True,ISIC_0015962,male
+846,35,benign,nevus,histopathology,True,ISIC_0015963,female
+847,35,benign,nevus,histopathology,True,ISIC_0015964,male
+848,40,benign,nevus,histopathology,True,ISIC_0015965,female
+849,65,benign,nevus,histopathology,True,ISIC_0015966,female
+850,60,benign,nevus,histopathology,True,ISIC_0015967,male
+851,50,benign,nevus,histopathology,True,ISIC_0015968,female
+852,70,benign,nevus,histopathology,True,ISIC_0015969,female
+853,35,benign,nevus,histopathology,True,ISIC_0015971,female
+854,65,benign,nevus,histopathology,True,ISIC_0015972,female
+855,65,benign,nevus,histopathology,True,ISIC_0015973,male
+856,65,benign,nevus,histopathology,True,ISIC_0015974,male
+857,10,benign,nevus,histopathology,True,ISIC_0015975,female
+858,40,benign,nevus,histopathology,True,ISIC_0015976,female
+859,50,benign,nevus,histopathology,True,ISIC_0015978,male
+860,60,benign,nevus,histopathology,True,ISIC_0015979,male
+861,45,benign,nevus,histopathology,True,ISIC_0015980,male
+862,45,benign,nevus,histopathology,True,ISIC_0015981,male
+863,45,benign,nevus,histopathology,True,ISIC_0015982,female
+864,75,benign,nevus,histopathology,True,ISIC_0015983,female
+865,75,benign,nevus,histopathology,True,ISIC_0015984,female
+866,35,benign,nevus,histopathology,True,ISIC_0015985,female
+867,55,benign,nevus,histopathology,True,ISIC_0015986,female
+868,55,benign,nevus,histopathology,True,ISIC_0015987,female
+869,75,benign,nevus,histopathology,True,ISIC_0015988,female
+870,75,benign,nevus,histopathology,True,ISIC_0015989,female
+871,35,benign,nevus,histopathology,True,ISIC_0015990,female
+872,75,benign,nevus,histopathology,True,ISIC_0015991,female
+873,35,benign,nevus,histopathology,True,ISIC_0015992,female
+874,45,benign,nevus,histopathology,True,ISIC_0015993,female
+875,65,benign,nevus,histopathology,True,ISIC_0015994,female
+876,60,benign,nevus,histopathology,True,ISIC_0015995,male
+877,35,benign,nevus,histopathology,True,ISIC_0015996,female
+878,35,benign,nevus,histopathology,True,ISIC_0015997,female
+879,85,benign,nevus,histopathology,True,ISIC_0015998,male
+880,25,benign,nevus,histopathology,True,ISIC_0015999,female
+881,85,benign,nevus,histopathology,True,ISIC_0016000,male
+882,50,benign,nevus,histopathology,True,ISIC_0016001,male
+883,60,benign,nevus,histopathology,True,ISIC_0016002,female
+884,50,benign,nevus,histopathology,True,ISIC_0016003,female
+885,70,benign,nevus,histopathology,True,ISIC_0016004,male
+886,45,benign,nevus,histopathology,True,ISIC_0016005,male
+887,70,benign,nevus,histopathology,True,ISIC_0016006,female
+888,35,benign,nevus,histopathology,True,ISIC_0016007,female
+889,60,benign,nevus,histopathology,True,ISIC_0016008,male
+890,40,benign,nevus,histopathology,True,ISIC_0016009,male
+891,85,benign,nevus,histopathology,True,ISIC_0016011,female
+892,75,benign,nevus,histopathology,True,ISIC_0016012,male
+893,75,benign,nevus,histopathology,True,ISIC_0016013,male
+894,40,benign,nevus,histopathology,True,ISIC_0016014,female
+895,40,benign,nevus,histopathology,True,ISIC_0016015,male
+896,70,benign,nevus,histopathology,True,ISIC_0016016,male
+897,45,benign,nevus,histopathology,True,ISIC_0016017,female
+898,40,benign,nevus,histopathology,True,ISIC_0016018,male
+899,70,benign,nevus,histopathology,True,ISIC_0016019,male
+900,75,benign,nevus,histopathology,True,ISIC_0016022,male
+901,65,benign,nevus,histopathology,True,ISIC_0016023,male
+902,65,benign,nevus,histopathology,True,ISIC_0016024,male
+903,30,benign,nevus,histopathology,True,ISIC_0016025,female
+904,60,benign,nevus,histopathology,True,ISIC_0016026,female
+905,60,benign,nevus,histopathology,True,ISIC_0016027,female
+906,45,benign,nevus,histopathology,True,ISIC_0016028,female
+907,70,benign,nevus,histopathology,True,ISIC_0016029,male
+908,70,benign,nevus,histopathology,True,ISIC_0016030,male
+909,70,benign,nevus,histopathology,True,ISIC_0016031,male
+910,60,benign,nevus,histopathology,True,ISIC_0016033,male
+911,60,benign,nevus,histopathology,True,ISIC_0016034,male
+912,60,benign,nevus,histopathology,True,ISIC_0016035,male
+913,60,benign,nevus,histopathology,True,ISIC_0016036,male
+914,65,benign,nevus,histopathology,True,ISIC_0016037,male
+915,60,benign,nevus,histopathology,True,ISIC_0016038,female
+916,50,benign,nevus,histopathology,True,ISIC_0016040,female
+917,55,benign,nevus,histopathology,True,ISIC_0016041,male
+918,60,benign,nevus,histopathology,True,ISIC_0016042,female
+919,40,benign,nevus,histopathology,True,ISIC_0016043,female
+920,40,benign,nevus,histopathology,True,ISIC_0016044,female
+921,70,benign,nevus,histopathology,True,ISIC_0016045,male
+922,80,benign,nevus,histopathology,True,ISIC_0016046,male
+923,50,benign,nevus,histopathology,True,ISIC_0016048,female
+924,40,benign,nevus,histopathology,True,ISIC_0016049,female
+925,85,benign,nevus,histopathology,True,ISIC_0016050,female
+926,40,benign,nevus,histopathology,True,ISIC_0016051,female
+927,55,benign,nevus,histopathology,True,ISIC_0016052,male
+928,50,benign,nevus,histopathology,True,ISIC_0016053,female
+929,50,benign,nevus,histopathology,True,ISIC_0016054,female
+930,35,benign,nevus,histopathology,True,ISIC_0016055,male
+931,65,benign,nevus,histopathology,True,ISIC_0016056,female
+932,55,benign,nevus,histopathology,True,ISIC_0016057,male
+933,60,benign,nevus,histopathology,True,ISIC_0016058,female
+934,55,benign,nevus,histopathology,True,ISIC_0016059,female
+935,70,benign,nevus,histopathology,True,ISIC_0016060,female
+936,70,benign,nevus,histopathology,True,ISIC_0016061,male
+937,55,benign,nevus,histopathology,True,ISIC_0016062,male
+938,55,benign,nevus,histopathology,True,ISIC_0016063,female
+939,70,benign,nevus,histopathology,True,ISIC_0016064,female
+940,70,benign,nevus,histopathology,True,ISIC_0016065,female
+941,65,benign,nevus,histopathology,True,ISIC_0016066,female
+942,70,benign,nevus,histopathology,True,ISIC_0016068,male
+943,30,benign,nevus,histopathology,True,ISIC_0016069,female
+944,65,benign,nevus,histopathology,True,ISIC_0016070,male
+945,60,benign,nevus,histopathology,True,ISIC_0016071,female
+946,65,benign,nevus,histopathology,True,ISIC_0016072,female

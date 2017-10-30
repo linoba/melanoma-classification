@@ -1,0 +1,684 @@
+,age_approx,benign_malignant,diagnosis,diagnosis_confirm_type,melanocytic,name,sex
+0,55,malignant,basal cell carcinoma,histopathology,False,ISIC_0011403,female
+1,80,malignant,melanoma,histopathology,True,ISIC_0011404,male
+2,65,malignant,melanoma,histopathology,True,ISIC_0011405,male
+3,20,benign,nevus,histopathology,True,ISIC_0011406,female
+4,65,benign,solar lentigo,histopathology,True,ISIC_0011407,female
+5,65,benign,solar lentigo,histopathology,True,ISIC_0011408,female
+6,85,benign,,single image expert consensus,,ISIC_0011409,male
+7,65,benign,dermatofibroma,histopathology,False,ISIC_0011410,female
+8,35,benign,nevus,histopathology,True,ISIC_0011411,male
+9,85,benign,nevus,histopathology,True,ISIC_0011412,female
+10,85,benign,,single image expert consensus,,ISIC_0011413,female
+11,55,benign,nevus,histopathology,True,ISIC_0011414,male
+12,55,benign,nevus,histopathology,True,ISIC_0011415,male
+13,25,benign,nevus,histopathology,True,ISIC_0011416,male
+14,75,benign,atypical melanocytic proliferation,histopathology,True,ISIC_0011417,male
+15,75,benign,atypical melanocytic proliferation,histopathology,True,ISIC_0011418,male
+16,85,benign,,single image expert consensus,,ISIC_0011419,male
+17,85,benign,nevus,histopathology,True,ISIC_0011420,male
+18,85,benign,nevus,histopathology,True,ISIC_0011421,male
+19,85,benign,,single image expert consensus,,ISIC_0011422,male
+20,85,benign,,single image expert consensus,,ISIC_0011423,male
+21,85,benign,,single image expert consensus,,ISIC_0011424,female
+22,85,benign,,single image expert consensus,,ISIC_0011425,female
+23,65,benign,,histopathology,,ISIC_0011426,male
+24,65,benign,,histopathology,,ISIC_0011427,male
+25,55,malignant,melanoma,histopathology,True,ISIC_0011428,male
+26,60,malignant,melanoma,histopathology,True,ISIC_0011429,female
+27,60,malignant,melanoma,histopathology,True,ISIC_0011430,female
+28,40,benign,,histopathology,,ISIC_0011431,male
+29,85,benign,nevus,histopathology,True,ISIC_0011432,male
+30,60,benign,dermatofibroma,histopathology,False,ISIC_0011433,male
+31,40,malignant,melanoma,histopathology,True,ISIC_0011434,female
+32,40,malignant,melanoma,histopathology,True,ISIC_0011435,female
+33,40,malignant,melanoma,histopathology,True,ISIC_0011436,female
+34,40,malignant,melanoma,histopathology,True,ISIC_0011437,female
+35,25,malignant,melanoma,histopathology,True,ISIC_0011438,male
+36,25,malignant,melanoma,histopathology,True,ISIC_0011439,male
+37,85,benign,nevus,histopathology,True,ISIC_0011440,female
+38,85,benign,other,histopathology,False,ISIC_0011441,male
+39,85,benign,other,histopathology,False,ISIC_0011442,male
+40,85,benign,,single image expert consensus,,ISIC_0011443,male
+41,85,,,single image expert consensus,,ISIC_0011444,male
+42,85,,,single image expert consensus,,ISIC_0011445,male
+43,85,benign,,single image expert consensus,,ISIC_0011446,female
+44,85,benign,,single image expert consensus,,ISIC_0011447,female
+45,85,benign,,single image expert consensus,,ISIC_0011448,female
+46,85,benign,,single image expert consensus,,ISIC_0011449,female
+47,35,benign,nevus,histopathology,True,ISIC_0011450,male
+48,35,benign,nevus,histopathology,True,ISIC_0011451,male
+49,85,benign,,single image expert consensus,,ISIC_0011452,
+50,85,benign,,single image expert consensus,,ISIC_0011453,
+51,65,benign,nevus,histopathology,True,ISIC_0011454,female
+52,50,benign,nevus,histopathology,True,ISIC_0011455,female
+53,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011456,female
+54,85,benign,,single image expert consensus,,ISIC_0011457,female
+55,85,malignant,melanoma,histopathology,True,ISIC_0011458,male
+56,40,malignant,melanoma,histopathology,True,ISIC_0011459,female
+57,40,malignant,melanoma,histopathology,True,ISIC_0011460,female
+58,85,benign,,single image expert consensus,,ISIC_0011461,
+59,85,benign,,single image expert consensus,,ISIC_0011462,male
+60,75,malignant,melanoma,histopathology,True,ISIC_0011463,male
+61,30,benign,,histopathology,,ISIC_0011464,male
+62,85,,,single image expert consensus,,ISIC_0011465,
+63,85,,,single image expert consensus,,ISIC_0011466,
+64,55,benign,nevus,histopathology,True,ISIC_0011467,male
+65,85,benign,nevus,histopathology,True,ISIC_0011468,female
+66,85,benign,,single image expert consensus,,ISIC_0011469,
+67,85,benign,,single image expert consensus,,ISIC_0011470,
+68,60,malignant,melanoma,histopathology,True,ISIC_0011471,male
+69,70,benign,,histopathology,,ISIC_0011472,female
+70,45,malignant,melanoma,histopathology,True,ISIC_0011473,male
+71,45,malignant,melanoma,histopathology,True,ISIC_0011474,male
+72,85,benign,,single image expert consensus,,ISIC_0011475,
+73,85,benign,,single image expert consensus,,ISIC_0011476,
+74,60,benign,,histopathology,,ISIC_0011477,male
+75,85,benign,dermatofibroma,histopathology,False,ISIC_0011478,male
+76,20,benign,nevus,histopathology,True,ISIC_0011479,female
+77,75,malignant,melanoma,histopathology,True,ISIC_0011480,female
+78,30,malignant,melanoma,histopathology,True,ISIC_0011481,female
+79,30,malignant,melanoma,histopathology,True,ISIC_0011482,male
+80,55,malignant,melanoma,histopathology,True,ISIC_0011483,female
+81,55,malignant,melanoma,histopathology,True,ISIC_0011484,female
+82,30,malignant,melanoma,histopathology,True,ISIC_0011485,male
+83,30,malignant,melanoma,histopathology,True,ISIC_0011486,male
+84,30,malignant,melanoma,histopathology,True,ISIC_0011487,male
+85,65,malignant,melanoma,histopathology,True,ISIC_0011488,female
+86,65,malignant,melanoma,histopathology,True,ISIC_0011489,male
+87,80,malignant,melanoma,histopathology,True,ISIC_0011490,male
+88,70,malignant,melanoma,histopathology,True,ISIC_0011491,female
+89,40,malignant,melanoma,histopathology,True,ISIC_0011492,female
+90,75,malignant,melanoma,histopathology,True,ISIC_0011493,male
+91,50,malignant,melanoma,histopathology,True,ISIC_0011494,male
+92,50,malignant,melanoma,histopathology,True,ISIC_0011495,female
+93,75,malignant,melanoma,histopathology,True,ISIC_0011496,female
+94,45,malignant,melanoma,histopathology,True,ISIC_0011497,male
+95,45,malignant,melanoma,histopathology,True,ISIC_0011498,male
+96,55,malignant,melanoma,histopathology,True,ISIC_0011499,male
+97,55,malignant,melanoma,histopathology,True,ISIC_0011500,male
+98,55,malignant,melanoma,histopathology,True,ISIC_0011501,male
+99,60,malignant,melanoma,histopathology,True,ISIC_0011502,male
+100,85,malignant,melanoma,histopathology,True,ISIC_0011503,female
+101,85,malignant,melanoma,histopathology,True,ISIC_0011504,male
+102,65,malignant,melanoma,histopathology,True,ISIC_0011505,male
+103,65,malignant,melanoma,histopathology,True,ISIC_0011506,male
+104,45,malignant,melanoma,histopathology,True,ISIC_0011507,male
+105,45,malignant,melanoma,histopathology,True,ISIC_0011508,male
+106,30,malignant,melanoma,histopathology,True,ISIC_0011509,male
+107,30,malignant,melanoma,histopathology,True,ISIC_0011510,male
+108,75,malignant,melanoma,histopathology,True,ISIC_0011511,male
+109,85,malignant,melanoma,histopathology,True,ISIC_0011512,female
+110,85,malignant,melanoma,histopathology,True,ISIC_0011513,female
+111,55,malignant,melanoma,histopathology,True,ISIC_0011514,female
+112,65,malignant,melanoma,histopathology,True,ISIC_0011515,male
+113,65,malignant,melanoma,histopathology,True,ISIC_0011516,male
+114,65,malignant,melanoma,histopathology,True,ISIC_0011517,male
+115,65,malignant,melanoma,histopathology,True,ISIC_0011518,male
+116,65,malignant,melanoma,histopathology,True,ISIC_0011519,male
+117,35,malignant,melanoma,histopathology,True,ISIC_0011520,female
+118,35,malignant,melanoma,histopathology,True,ISIC_0011521,female
+119,85,benign,angiofibroma or fibrous papule,histopathology,False,ISIC_0011522,male
+120,40,benign,,histopathology,,ISIC_0011523,male
+121,75,malignant,melanoma,histopathology,True,ISIC_0011524,male
+122,75,benign,,histopathology,,ISIC_0011525,male
+123,85,malignant,melanoma,histopathology,True,ISIC_0011526,male
+124,75,malignant,melanoma,histopathology,True,ISIC_0011527,male
+125,75,malignant,melanoma,histopathology,True,ISIC_0011528,male
+126,75,malignant,melanoma,histopathology,True,ISIC_0011529,male
+127,75,malignant,melanoma,histopathology,True,ISIC_0011530,male
+128,75,malignant,melanoma,histopathology,True,ISIC_0011531,male
+129,75,malignant,melanoma,histopathology,True,ISIC_0011532,male
+130,80,benign,,histopathology,,ISIC_0011533,male
+131,80,malignant,melanoma,histopathology,True,ISIC_0011534,male
+132,75,malignant,basal cell carcinoma,histopathology,False,ISIC_0011535,male
+133,75,malignant,basal cell carcinoma,histopathology,False,ISIC_0011536,male
+134,75,malignant,melanoma,histopathology,True,ISIC_0011537,male
+135,60,benign,nevus,histopathology,True,ISIC_0011538,male
+136,85,benign,,single image expert consensus,,ISIC_0011539,
+137,85,benign,,single image expert consensus,,ISIC_0011540,
+138,30,benign,nevus,histopathology,True,ISIC_0011541,male
+139,35,benign,,single image expert consensus,,ISIC_0011542,male
+140,35,benign,,single image expert consensus,,ISIC_0011543,male
+141,15,benign,nevus,histopathology,True,ISIC_0011544,male
+142,15,benign,nevus,histopathology,True,ISIC_0011545,male
+143,20,benign,nevus,histopathology,True,ISIC_0011546,female
+144,60,benign,,histopathology,,ISIC_0011547,female
+145,60,benign,,single image expert consensus,,ISIC_0011548,female
+146,60,benign,,single image expert consensus,,ISIC_0011549,female
+147,55,benign,,histopathology,,ISIC_0011550,male
+148,55,benign,,histopathology,,ISIC_0011551,male
+149,85,benign,,histopathology,,ISIC_0011552,
+150,40,benign,nevus,histopathology,True,ISIC_0011553,male
+151,40,benign,nevus,histopathology,True,ISIC_0011554,male
+152,40,benign,nevus,histopathology,True,ISIC_0011555,male
+153,85,,,single image expert consensus,,ISIC_0011556,
+154,85,,,single image expert consensus,,ISIC_0011557,
+155,55,benign,nevus,histopathology,True,ISIC_0011558,female
+156,65,benign,nevus,histopathology,True,ISIC_0011559,male
+157,70,malignant,melanoma,histopathology,True,ISIC_0011560,female
+158,25,benign,nevus,histopathology,True,ISIC_0011561,female
+159,25,benign,nevus,histopathology,True,ISIC_0011562,female
+160,25,benign,nevus,histopathology,True,ISIC_0011563,female
+161,25,benign,nevus,histopathology,True,ISIC_0011564,female
+162,45,benign,nevus,histopathology,True,ISIC_0011565,male
+163,75,malignant,melanoma,histopathology,True,ISIC_0011566,female
+164,35,benign,nevus,histopathology,True,ISIC_0011567,female
+165,35,benign,nevus,histopathology,True,ISIC_0011568,female
+166,15,benign,nevus,histopathology,True,ISIC_0011569,male
+167,50,benign,nevus,histopathology,True,ISIC_0011570,female
+168,15,benign,nevus,histopathology,True,ISIC_0011571,male
+169,50,benign,nevus,histopathology,True,ISIC_0011572,male
+170,50,benign,nevus,histopathology,True,ISIC_0011573,male
+171,40,benign,angioma,histopathology,False,ISIC_0011574,female
+172,85,benign,nevus,histopathology,True,ISIC_0011575,male
+173,85,benign,nevus,histopathology,True,ISIC_0011576,male
+174,20,benign,nevus,histopathology,True,ISIC_0011577,male
+175,85,benign,,single image expert consensus,,ISIC_0011578,
+176,40,malignant,melanoma,histopathology,True,ISIC_0011579,female
+177,20,benign,nevus,histopathology,True,ISIC_0011580,female
+178,30,benign,nevus,histopathology,True,ISIC_0011581,male
+179,85,,,single image expert consensus,,ISIC_0011582,female
+180,85,,,single image expert consensus,,ISIC_0011583,female
+181,70,benign,nevus,histopathology,True,ISIC_0011584,female
+182,85,benign,,histopathology,,ISIC_0011585,female
+183,50,benign,nevus,histopathology,True,ISIC_0011586,male
+184,65,benign,other,histopathology,False,ISIC_0011587,female
+185,45,benign,nevus,histopathology,True,ISIC_0011588,female
+186,15,malignant,melanoma,histopathology,True,ISIC_0011589,male
+187,15,malignant,melanoma,histopathology,True,ISIC_0011590,male
+188,15,malignant,melanoma,histopathology,True,ISIC_0011591,male
+189,70,benign,angioma,histopathology,False,ISIC_0011592,female
+190,70,malignant,squamous cell carcinoma,histopathology,False,ISIC_0011593,female
+191,85,malignant,melanoma,histopathology,True,ISIC_0011594,female
+192,70,benign,solar lentigo,histopathology,True,ISIC_0011595,female
+193,65,benign,,histopathology,,ISIC_0011596,female
+194,85,benign,,histopathology,,ISIC_0011597,male
+195,50,malignant,,histopathology,,ISIC_0011598,male
+196,30,benign,nevus,histopathology,True,ISIC_0011599,female
+197,55,benign,nevus,histopathology,True,ISIC_0011600,male
+198,45,benign,,histopathology,,ISIC_0011601,male
+199,50,benign,nevus,histopathology,True,ISIC_0011602,female
+200,50,benign,nevus,histopathology,True,ISIC_0011603,female
+201,50,benign,nevus,histopathology,True,ISIC_0011604,female
+202,50,benign,nevus,histopathology,True,ISIC_0011605,male
+203,50,benign,,histopathology,,ISIC_0011606,female
+204,30,benign,nevus,histopathology,True,ISIC_0011607,female
+205,85,benign,,single image expert consensus,,ISIC_0011608,
+206,70,benign,,histopathology,,ISIC_0011609,male
+207,70,malignant,melanoma,histopathology,True,ISIC_0011610,male
+208,15,benign,nevus,histopathology,True,ISIC_0011611,female
+209,85,benign,nevus,histopathology,True,ISIC_0011612,male
+210,55,malignant,melanoma,histopathology,True,ISIC_0011613,female
+211,55,malignant,melanoma,histopathology,True,ISIC_0011614,female
+212,55,malignant,melanoma,histopathology,True,ISIC_0011615,female
+213,55,malignant,melanoma,histopathology,True,ISIC_0011616,female
+214,55,malignant,melanoma,histopathology,True,ISIC_0011617,female
+215,85,malignant,melanoma,histopathology,True,ISIC_0011618,female
+216,40,benign,nevus,histopathology,True,ISIC_0011619,female
+217,25,benign,nevus,histopathology,True,ISIC_0011620,female
+218,25,benign,nevus,histopathology,True,ISIC_0011621,female
+219,25,benign,nevus,histopathology,True,ISIC_0011622,female
+220,85,benign,,single image expert consensus,,ISIC_0011623,
+221,85,benign,,single image expert consensus,,ISIC_0011624,
+222,85,benign,,single image expert consensus,,ISIC_0011625,
+223,70,malignant,basal cell carcinoma,histopathology,False,ISIC_0011626,male
+224,70,malignant,basal cell carcinoma,histopathology,False,ISIC_0011627,male
+225,85,malignant,melanoma,histopathology,True,ISIC_0011628,male
+226,50,benign,angioma,histopathology,False,ISIC_0011629,female
+227,45,benign,nevus,histopathology,True,ISIC_0011630,female
+228,50,benign,,histopathology,,ISIC_0011631,female
+229,70,benign,,histopathology,,ISIC_0011632,male
+230,70,benign,,histopathology,,ISIC_0011633,male
+231,70,benign,,histopathology,,ISIC_0011634,male
+232,85,benign,nevus,histopathology,True,ISIC_0011635,male
+233,85,benign,nevus,histopathology,True,ISIC_0011636,male
+234,35,benign,angioma,histopathology,False,ISIC_0011637,male
+235,35,benign,angioma,histopathology,False,ISIC_0011638,male
+236,70,benign,solar lentigo,histopathology,True,ISIC_0011639,male
+237,70,benign,solar lentigo,histopathology,True,ISIC_0011640,male
+238,70,benign,solar lentigo,histopathology,True,ISIC_0011641,male
+239,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011642,male
+240,70,benign,nevus,histopathology,True,ISIC_0011643,male
+241,70,benign,nevus,histopathology,True,ISIC_0011644,male
+242,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011645,male
+243,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011646,male
+244,85,benign,,histopathology,,ISIC_0011647,male
+245,55,malignant,basal cell carcinoma,histopathology,False,ISIC_0011648,male
+246,85,malignant,melanoma,histopathology,True,ISIC_0011649,
+247,45,benign,,histopathology,,ISIC_0011650,female
+248,50,benign,nevus,histopathology,True,ISIC_0011651,male
+249,50,benign,nevus,histopathology,True,ISIC_0011652,male
+250,50,benign,nevus,histopathology,True,ISIC_0011653,male
+251,50,benign,nevus,histopathology,True,ISIC_0011654,male
+252,50,benign,nevus,histopathology,True,ISIC_0011655,male
+253,50,benign,nevus,histopathology,True,ISIC_0011656,male
+254,20,benign,nevus,histopathology,True,ISIC_0011657,male
+255,85,benign,,single image expert consensus,,ISIC_0011658,
+256,60,malignant,melanoma,histopathology,True,ISIC_0011659,male
+257,85,benign,,single image expert consensus,,ISIC_0011660,male
+258,85,benign,,single image expert consensus,,ISIC_0011661,
+259,35,benign,nevus,histopathology,True,ISIC_0011662,female
+260,30,benign,nevus,histopathology,True,ISIC_0011663,female
+261,30,benign,nevus,histopathology,True,ISIC_0011664,female
+262,20,benign,nevus,histopathology,True,ISIC_0011665,female
+263,60,benign,,histopathology,,ISIC_0011666,male
+264,60,benign,,histopathology,,ISIC_0011667,male
+265,70,benign,nevus,histopathology,True,ISIC_0011668,male
+266,70,benign,nevus,histopathology,True,ISIC_0011669,male
+267,25,benign,nevus,histopathology,True,ISIC_0011670,female
+268,35,benign,nevus,histopathology,True,ISIC_0011671,male
+269,35,benign,nevus,histopathology,True,ISIC_0011672,male
+270,30,benign,nevus,histopathology,True,ISIC_0011673,female
+271,30,benign,nevus,histopathology,True,ISIC_0011674,male
+272,85,benign,nevus,histopathology,True,ISIC_0011675,male
+273,85,benign,,histopathology,,ISIC_0011676,male
+274,75,benign,dermatofibroma,histopathology,False,ISIC_0011677,male
+275,70,benign,solar lentigo,histopathology,True,ISIC_0011678,male
+276,25,benign,nevus,histopathology,True,ISIC_0011679,male
+277,85,benign,,single image expert consensus,,ISIC_0011680,
+278,85,benign,,single image expert consensus,,ISIC_0011681,
+279,85,benign,,single image expert consensus,,ISIC_0011682,
+280,60,benign,,histopathology,,ISIC_0011683,female
+281,65,malignant,melanoma,histopathology,True,ISIC_0011684,female
+282,60,benign,nevus,histopathology,True,ISIC_0011685,female
+283,60,benign,,histopathology,,ISIC_0011686,female
+284,40,benign,,single image expert consensus,,ISIC_0011687,female
+285,40,benign,,single image expert consensus,,ISIC_0011688,female
+286,60,benign,,histopathology,,ISIC_0011689,male
+287,50,benign,nevus,histopathology,True,ISIC_0011690,male
+288,50,malignant,melanoma,histopathology,True,ISIC_0011691,male
+289,35,malignant,melanoma,histopathology,True,ISIC_0011692,female
+290,35,malignant,melanoma,histopathology,True,ISIC_0011693,female
+291,35,malignant,melanoma,histopathology,True,ISIC_0011694,female
+292,35,malignant,melanoma,histopathology,True,ISIC_0011695,female
+293,35,malignant,melanoma,histopathology,True,ISIC_0011696,female
+294,35,malignant,melanoma,histopathology,True,ISIC_0011697,female
+295,35,malignant,melanoma,histopathology,True,ISIC_0011698,female
+296,35,malignant,melanoma,histopathology,True,ISIC_0011699,female
+297,35,malignant,melanoma,histopathology,True,ISIC_0011700,female
+298,35,malignant,melanoma,histopathology,True,ISIC_0011701,female
+299,35,malignant,melanoma,histopathology,True,ISIC_0011702,female
+300,35,malignant,melanoma,histopathology,True,ISIC_0011703,female
+301,35,malignant,melanoma,histopathology,True,ISIC_0011704,female
+302,25,benign,nevus,histopathology,True,ISIC_0011705,female
+303,25,benign,nevus,histopathology,True,ISIC_0011706,female
+304,30,benign,nevus,histopathology,True,ISIC_0011707,female
+305,85,benign,solar lentigo,histopathology,True,ISIC_0011708,female
+306,50,malignant,melanoma,histopathology,True,ISIC_0011709,male
+307,50,malignant,melanoma,histopathology,True,ISIC_0011710,male
+308,25,malignant,melanoma,histopathology,True,ISIC_0011711,female
+309,60,benign,nevus,histopathology,True,ISIC_0011712,female
+310,60,benign,nevus,histopathology,True,ISIC_0011713,female
+311,85,benign,,single image expert consensus,,ISIC_0011714,
+312,30,benign,nevus,histopathology,True,ISIC_0011715,female
+313,85,benign,,histopathology,,ISIC_0011716,male
+314,70,benign,,histopathology,,ISIC_0011717,female
+315,60,benign,nevus,histopathology,True,ISIC_0011718,female
+316,45,benign,nevus,histopathology,True,ISIC_0011719,male
+317,55,benign,,histopathology,,ISIC_0011720,male
+318,60,benign,nevus,histopathology,True,ISIC_0011721,male
+319,60,benign,nevus,histopathology,True,ISIC_0011722,male
+320,85,benign,lentigo simplex,histopathology,True,ISIC_0011723,male
+321,65,benign,other,histopathology,False,ISIC_0011724,female
+322,65,benign,other,histopathology,False,ISIC_0011725,female
+323,80,malignant,squamous cell carcinoma,histopathology,False,ISIC_0011726,male
+324,40,benign,nevus,histopathology,True,ISIC_0011727,male
+325,65,malignant,melanoma,histopathology,True,ISIC_0011728,male
+326,65,malignant,melanoma,histopathology,True,ISIC_0011729,male
+327,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011730,male
+328,45,benign,nevus,histopathology,True,ISIC_0011731,female
+329,30,benign,nevus,histopathology,True,ISIC_0011732,female
+330,65,malignant,basal cell carcinoma,histopathology,False,ISIC_0011733,female
+331,45,benign,nevus,histopathology,True,ISIC_0011734,female
+332,85,benign,,single image expert consensus,,ISIC_0011735,female
+333,60,malignant,melanoma,histopathology,True,ISIC_0011736,male
+334,60,benign,solar lentigo,histopathology,True,ISIC_0011737,male
+335,40,benign,nevus,histopathology,True,ISIC_0011738,female
+336,40,benign,nevus,histopathology,True,ISIC_0011739,female
+337,40,benign,nevus,histopathology,True,ISIC_0011740,female
+338,70,benign,nevus,histopathology,True,ISIC_0011741,male
+339,70,benign,nevus,histopathology,True,ISIC_0011742,male
+340,65,malignant,melanoma,histopathology,True,ISIC_0011743,female
+341,65,malignant,melanoma,histopathology,True,ISIC_0011744,female
+342,65,benign,,histopathology,,ISIC_0011745,female
+343,65,benign,,histopathology,,ISIC_0011746,female
+344,85,malignant,,histopathology,,ISIC_0011747,male
+345,55,benign,nevus,histopathology,True,ISIC_0011748,male
+346,55,benign,nevus,histopathology,True,ISIC_0011749,male
+347,80,malignant,squamous cell carcinoma,histopathology,False,ISIC_0011750,female
+348,80,malignant,squamous cell carcinoma,histopathology,False,ISIC_0011751,female
+349,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011752,male
+350,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011753,male
+351,50,benign,nevus,histopathology,True,ISIC_0011754,female
+352,50,benign,nevus,histopathology,True,ISIC_0011755,female
+353,30,benign,nevus,histopathology,True,ISIC_0011756,male
+354,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011757,male
+355,70,malignant,melanoma,histopathology,True,ISIC_0011758,male
+356,70,malignant,melanoma,histopathology,True,ISIC_0011759,male
+357,85,benign,,histopathology,,ISIC_0011760,male
+358,85,benign,,histopathology,,ISIC_0011761,male
+359,70,benign,nevus,histopathology,True,ISIC_0011762,female
+360,40,benign,,histopathology,,ISIC_0011763,male
+361,50,malignant,melanoma,histopathology,True,ISIC_0011764,male
+362,45,benign,nevus,histopathology,True,ISIC_0011765,male
+363,45,benign,nevus,histopathology,True,ISIC_0011766,male
+364,85,benign,,single image expert consensus,,ISIC_0011767,
+365,50,benign,nevus,histopathology,True,ISIC_0011768,male
+366,85,benign,nevus,histopathology,True,ISIC_0011769,female
+367,65,malignant,,histopathology,,ISIC_0011770,male
+368,65,malignant,,histopathology,,ISIC_0011771,male
+369,65,malignant,,histopathology,,ISIC_0011772,male
+370,65,malignant,,histopathology,,ISIC_0011773,male
+371,65,malignant,,histopathology,,ISIC_0011774,male
+372,55,benign,other,histopathology,False,ISIC_0011775,female
+373,55,benign,other,histopathology,False,ISIC_0011776,female
+374,85,benign,nevus,histopathology,True,ISIC_0011777,male
+375,65,malignant,melanoma,histopathology,True,ISIC_0011778,male
+376,35,benign,nevus,histopathology,True,ISIC_0011779,female
+377,30,malignant,melanoma,histopathology,True,ISIC_0011780,male
+378,55,benign,,histopathology,,ISIC_0011781,female
+379,60,malignant,melanoma,histopathology,True,ISIC_0011782,male
+380,70,benign,,histopathology,,ISIC_0011783,female
+381,60,benign,nevus,histopathology,True,ISIC_0011784,female
+382,35,benign,nevus,histopathology,True,ISIC_0011785,male
+383,80,,,histopathology,,ISIC_0011786,male
+384,65,benign,nevus,histopathology,True,ISIC_0011787,male
+385,85,benign,nevus,histopathology,True,ISIC_0011788,male
+386,50,benign,angioma,histopathology,False,ISIC_0011789,female
+387,85,malignant,,histopathology,,ISIC_0011790,male
+388,85,benign,nevus,histopathology,True,ISIC_0011791,male
+389,85,benign,nevus,histopathology,True,ISIC_0011792,male
+390,85,benign,nevus,histopathology,True,ISIC_0011793,male
+391,70,malignant,melanoma,histopathology,True,ISIC_0011794,male
+392,85,benign,,single image expert consensus,,ISIC_0011795,
+393,85,benign,,single image expert consensus,,ISIC_0011796,
+394,85,malignant,melanoma,histopathology,True,ISIC_0011797,female
+395,85,malignant,melanoma,histopathology,True,ISIC_0011798,female
+396,85,malignant,melanoma,histopathology,True,ISIC_0011799,female
+397,50,benign,nevus,histopathology,True,ISIC_0011800,female
+398,85,malignant,melanoma,histopathology,True,ISIC_0011801,female
+399,85,malignant,melanoma,histopathology,True,ISIC_0011802,female
+400,85,benign,nevus,histopathology,True,ISIC_0011803,female
+401,85,benign,nevus,histopathology,True,ISIC_0011804,female
+402,85,benign,nevus,histopathology,True,ISIC_0011805,female
+403,85,benign,nevus,histopathology,True,ISIC_0011806,female
+404,30,malignant,melanoma,histopathology,True,ISIC_0011807,male
+405,30,malignant,melanoma,histopathology,True,ISIC_0011808,male
+406,65,benign,nevus,histopathology,True,ISIC_0011809,female
+407,70,malignant,basal cell carcinoma,histopathology,False,ISIC_0011810,female
+408,55,malignant,melanoma,histopathology,True,ISIC_0011811,male
+409,55,malignant,melanoma,histopathology,True,ISIC_0011812,male
+410,55,benign,nevus,histopathology,True,ISIC_0011813,female
+411,60,benign,nevus,histopathology,True,ISIC_0011814,male
+412,60,benign,nevus,histopathology,True,ISIC_0011815,male
+413,45,benign,nevus,histopathology,True,ISIC_0011816,male
+414,45,benign,nevus,histopathology,True,ISIC_0011817,male
+415,15,benign,nevus,histopathology,True,ISIC_0011818,male
+416,70,benign,,histopathology,,ISIC_0011819,male
+417,70,benign,,histopathology,,ISIC_0011820,male
+418,60,benign,nevus,histopathology,True,ISIC_0011821,female
+419,60,benign,nevus,histopathology,True,ISIC_0011822,female
+420,50,benign,nevus,histopathology,True,ISIC_0011823,female
+421,50,benign,nevus,histopathology,True,ISIC_0011824,female
+422,35,benign,nevus,histopathology,True,ISIC_0011825,female
+423,85,benign,,histopathology,,ISIC_0011826,female
+424,50,benign,nevus,histopathology,True,ISIC_0011827,female
+425,15,benign,nevus,histopathology,True,ISIC_0011828,male
+426,85,malignant,,histopathology,,ISIC_0011829,
+427,45,benign,nevus,histopathology,True,ISIC_0011830,female
+428,45,benign,solar lentigo,histopathology,True,ISIC_0011831,female
+429,40,benign,nevus,histopathology,True,ISIC_0011832,male
+430,40,benign,nevus,histopathology,True,ISIC_0011833,female
+431,45,benign,lentigo simplex,histopathology,True,ISIC_0011834,female
+432,45,benign,nevus,histopathology,True,ISIC_0011835,female
+433,45,benign,,histopathology,,ISIC_0011836,male
+434,25,benign,nevus,histopathology,True,ISIC_0011837,female
+435,25,benign,nevus,histopathology,True,ISIC_0011838,female
+436,60,benign,,histopathology,,ISIC_0011839,female
+437,65,benign,,histopathology,,ISIC_0011840,female
+438,35,benign,nevus,histopathology,True,ISIC_0011841,female
+439,35,benign,nevus,histopathology,True,ISIC_0011842,female
+440,55,benign,other,histopathology,False,ISIC_0011843,male
+441,85,,,single image expert consensus,,ISIC_0011844,
+442,70,malignant,melanoma,histopathology,True,ISIC_0011845,male
+443,70,malignant,melanoma,histopathology,True,ISIC_0011846,male
+444,70,benign,,histopathology,,ISIC_0011847,male
+445,70,malignant,basal cell carcinoma,histopathology,False,ISIC_0011848,male
+446,70,benign,,histopathology,,ISIC_0011849,female
+447,70,benign,,histopathology,,ISIC_0011850,female
+448,85,benign,,single image expert consensus,,ISIC_0011851,
+449,85,benign,lentigo simplex,histopathology,True,ISIC_0011852,male
+450,10,benign,nevus,histopathology,True,ISIC_0011853,male
+451,85,benign,nevus,single image expert consensus,True,ISIC_0011854,
+452,40,benign,nevus,histopathology,True,ISIC_0011855,female
+453,25,benign,,histopathology,,ISIC_0011856,male
+454,45,malignant,melanoma,histopathology,True,ISIC_0011857,female
+455,45,malignant,melanoma,histopathology,True,ISIC_0011858,female
+456,85,benign,,single image expert consensus,,ISIC_0011859,
+457,85,benign,,single image expert consensus,,ISIC_0011860,
+458,85,benign,,single image expert consensus,,ISIC_0011861,
+459,45,malignant,melanoma,histopathology,True,ISIC_0011862,female
+460,45,malignant,melanoma,histopathology,True,ISIC_0011863,female
+461,35,benign,nevus,histopathology,True,ISIC_0011864,female
+462,45,benign,dermatofibroma,histopathology,False,ISIC_0011865,male
+463,50,benign,nevus,histopathology,True,ISIC_0011866,female
+464,65,benign,nevus,histopathology,True,ISIC_0011867,female
+465,65,malignant,basal cell carcinoma,histopathology,False,ISIC_0011868,male
+466,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0011869,male
+467,65,malignant,melanoma,histopathology,True,ISIC_0011870,female
+468,65,benign,,histopathology,,ISIC_0011871,female
+469,40,malignant,melanoma,histopathology,True,ISIC_0011872,female
+470,40,malignant,melanoma,histopathology,True,ISIC_0011873,female
+471,40,malignant,melanoma,histopathology,True,ISIC_0011874,female
+472,40,malignant,melanoma,histopathology,True,ISIC_0011875,female
+473,40,malignant,melanoma,histopathology,True,ISIC_0011876,female
+474,40,malignant,melanoma,histopathology,True,ISIC_0011877,female
+475,40,malignant,melanoma,histopathology,True,ISIC_0011878,female
+476,40,malignant,melanoma,histopathology,True,ISIC_0011879,female
+477,50,benign,nevus,histopathology,True,ISIC_0011880,female
+478,30,benign,nevus,histopathology,True,ISIC_0011881,male
+479,30,benign,nevus,histopathology,True,ISIC_0011882,male
+480,30,benign,nevus,histopathology,True,ISIC_0011883,male
+481,85,benign,nevus,histopathology,True,ISIC_0011884,female
+482,30,benign,nevus,histopathology,True,ISIC_0011885,female
+483,30,benign,nevus,histopathology,True,ISIC_0011886,male
+484,55,benign,angioma,histopathology,False,ISIC_0011887,male
+485,45,benign,nevus,histopathology,True,ISIC_0011888,female
+486,85,benign,nevus,histopathology,True,ISIC_0011889,female
+487,85,benign,lentigo simplex,histopathology,True,ISIC_0011890,male
+488,85,benign,lentigo simplex,histopathology,True,ISIC_0011891,male
+489,55,malignant,melanoma,histopathology,True,ISIC_0011892,female
+490,45,benign,nevus,histopathology,True,ISIC_0011893,male
+491,45,malignant,basal cell carcinoma,histopathology,False,ISIC_0011894,male
+492,50,malignant,melanoma,histopathology,True,ISIC_0011895,female
+493,50,benign,nevus,histopathology,True,ISIC_0011896,female
+494,70,benign,,histopathology,,ISIC_0011897,male
+495,85,malignant,melanoma,histopathology,True,ISIC_0011898,female
+496,35,benign,nevus,histopathology,True,ISIC_0011899,male
+497,35,benign,nevus,histopathology,True,ISIC_0011900,male
+498,75,benign,lentigo simplex,histopathology,True,ISIC_0011901,male
+499,75,benign,lentigo simplex,histopathology,True,ISIC_0011902,male
+500,75,benign,lentigo simplex,histopathology,True,ISIC_0011903,male
+501,85,malignant,melanoma,histopathology,True,ISIC_0011904,female
+502,35,benign,nevus,histopathology,True,ISIC_0011905,male
+503,35,benign,nevus,histopathology,True,ISIC_0011906,male
+504,85,benign,,single image expert consensus,,ISIC_0011907,
+505,55,benign,nevus,histopathology,True,ISIC_0011908,male
+506,55,benign,,histopathology,,ISIC_0011909,male
+507,65,benign,,histopathology,,ISIC_0011910,male
+508,60,benign,,histopathology,,ISIC_0011911,male
+509,60,benign,,histopathology,,ISIC_0011912,male
+510,60,benign,,histopathology,,ISIC_0011913,male
+511,60,benign,,histopathology,,ISIC_0011914,male
+512,60,benign,,histopathology,,ISIC_0011915,male
+513,60,benign,,histopathology,,ISIC_0011916,male
+514,60,benign,,histopathology,,ISIC_0011917,male
+515,60,benign,,histopathology,,ISIC_0011918,male
+516,60,benign,,histopathology,,ISIC_0011919,male
+517,60,benign,,histopathology,,ISIC_0011920,male
+518,65,malignant,melanoma,histopathology,True,ISIC_0011921,male
+519,65,malignant,melanoma,histopathology,True,ISIC_0011922,male
+520,50,malignant,melanoma,histopathology,True,ISIC_0011923,male
+521,50,benign,nevus,histopathology,True,ISIC_0011924,male
+522,45,benign,nevus,histopathology,True,ISIC_0011925,female
+523,45,benign,nevus,histopathology,True,ISIC_0011926,female
+524,50,benign,nevus,histopathology,True,ISIC_0011927,female
+525,50,benign,nevus,histopathology,True,ISIC_0011928,female
+526,65,malignant,melanoma,histopathology,True,ISIC_0011929,male
+527,70,malignant,melanoma,histopathology,True,ISIC_0011930,male
+528,70,malignant,melanoma,histopathology,True,ISIC_0011931,male
+529,80,benign,,histopathology,,ISIC_0011932,female
+530,65,malignant,melanoma,histopathology,True,ISIC_0011933,male
+531,85,benign,,histopathology,,ISIC_0011934,male
+532,85,malignant,,histopathology,,ISIC_0011935,
+533,30,benign,other,histopathology,False,ISIC_0011936,male
+534,30,benign,other,histopathology,False,ISIC_0011937,male
+535,60,benign,,histopathology,,ISIC_0011938,female
+536,60,benign,nevus,histopathology,True,ISIC_0011939,female
+537,55,benign,,histopathology,,ISIC_0011940,male
+538,85,benign,,histopathology,,ISIC_0011941,male
+539,30,benign,nevus,histopathology,True,ISIC_0011942,female
+540,25,malignant,melanoma,histopathology,True,ISIC_0011943,female
+541,25,malignant,melanoma,histopathology,True,ISIC_0011944,female
+542,65,benign,nevus,histopathology,True,ISIC_0011945,male
+543,65,benign,nevus,histopathology,True,ISIC_0011946,male
+544,65,malignant,melanoma,histopathology,True,ISIC_0011947,male
+545,65,malignant,melanoma,histopathology,True,ISIC_0011948,male
+546,65,malignant,melanoma,histopathology,True,ISIC_0011949,male
+547,65,malignant,melanoma,histopathology,True,ISIC_0011950,male
+548,65,malignant,melanoma,histopathology,True,ISIC_0011951,male
+549,85,benign,,histopathology,,ISIC_0011952,male
+550,85,benign,,histopathology,,ISIC_0011953,male
+551,5,benign,nevus,histopathology,True,ISIC_0011954,male
+552,85,benign,,single image expert consensus,,ISIC_0011955,
+553,85,benign,nevus,histopathology,True,ISIC_0011956,female
+554,50,malignant,melanoma,histopathology,True,ISIC_0011957,female
+555,50,malignant,melanoma,histopathology,True,ISIC_0011958,female
+556,65,benign,,histopathology,,ISIC_0011959,male
+557,15,benign,nevus,histopathology,True,ISIC_0011960,female
+558,70,benign,,histopathology,,ISIC_0011961,male
+559,70,benign,,histopathology,,ISIC_0011962,male
+560,55,benign,,histopathology,,ISIC_0011963,female
+561,85,benign,nevus,histopathology,True,ISIC_0011964,female
+562,85,benign,solar lentigo,histopathology,True,ISIC_0011965,male
+563,75,benign,,histopathology,,ISIC_0011966,male
+564,40,benign,nevus,histopathology,True,ISIC_0011967,female
+565,85,benign,,histopathology,,ISIC_0011968,male
+566,60,benign,nevus,histopathology,True,ISIC_0011969,male
+567,30,benign,nevus,histopathology,True,ISIC_0011970,female
+568,30,benign,nevus,histopathology,True,ISIC_0011971,female
+569,30,benign,nevus,histopathology,True,ISIC_0011972,female
+570,50,benign,angioma,histopathology,False,ISIC_0011973,male
+571,50,benign,angioma,histopathology,False,ISIC_0011974,male
+572,85,malignant,melanoma,histopathology,True,ISIC_0011975,female
+573,65,benign,,histopathology,,ISIC_0011976,male
+574,65,benign,,histopathology,,ISIC_0011977,male
+575,80,benign,nevus,histopathology,True,ISIC_0011978,male
+576,65,benign,,histopathology,,ISIC_0011979,male
+577,40,benign,nevus,histopathology,True,ISIC_0011980,male
+578,85,benign,nevus,histopathology,True,ISIC_0011981,female
+579,85,benign,nevus,histopathology,True,ISIC_0011982,female
+580,80,benign,angioma,histopathology,False,ISIC_0011983,male
+581,40,benign,,histopathology,,ISIC_0011984,female
+582,35,benign,nevus,histopathology,True,ISIC_0011985,female
+583,85,benign,,single image expert consensus,,ISIC_0011986,
+584,85,malignant,melanoma,histopathology,True,ISIC_0011987,male
+585,30,benign,nevus,histopathology,True,ISIC_0011988,male
+586,25,benign,scar,histopathology,False,ISIC_0011989,female
+587,85,benign,solar lentigo,histopathology,True,ISIC_0011990,female
+588,85,benign,nevus,histopathology,True,ISIC_0011991,female
+589,85,benign,nevus,histopathology,True,ISIC_0011992,female
+590,85,benign,,single image expert consensus,,ISIC_0011993,
+591,85,benign,,single image expert consensus,,ISIC_0011994,
+592,45,benign,nevus,histopathology,True,ISIC_0011995,male
+593,70,malignant,melanoma,histopathology,True,ISIC_0011996,female
+594,65,benign,,histopathology,,ISIC_0011997,male
+595,85,malignant,melanoma,histopathology,True,ISIC_0011998,male
+596,35,benign,nevus,histopathology,True,ISIC_0011999,male
+597,60,malignant,melanoma,histopathology,True,ISIC_0012000,female
+598,65,benign,nevus,histopathology,True,ISIC_0012001,female
+599,65,benign,nevus,histopathology,True,ISIC_0012002,female
+600,85,benign,,single image expert consensus,,ISIC_0012003,
+601,85,benign,,single image expert consensus,,ISIC_0012004,
+602,40,benign,nevus,histopathology,True,ISIC_0012005,female
+603,35,benign,nevus,histopathology,True,ISIC_0012006,female
+604,25,benign,nevus,histopathology,True,ISIC_0012007,female
+605,40,benign,solar lentigo,histopathology,True,ISIC_0012008,male
+606,55,benign,nevus,histopathology,True,ISIC_0012009,male
+607,85,benign,,single image expert consensus,,ISIC_0012010,
+608,85,benign,,single image expert consensus,,ISIC_0012011,
+609,75,benign,,histopathology,,ISIC_0012012,male
+610,75,benign,,histopathology,,ISIC_0012013,male
+611,85,benign,,single image expert consensus,,ISIC_0012014,
+612,85,benign,,single image expert consensus,,ISIC_0012015,
+613,85,benign,,single image expert consensus,,ISIC_0012016,
+614,85,benign,,single image expert consensus,,ISIC_0012017,
+615,50,benign,,histopathology,,ISIC_0012018,male
+616,85,benign,,single image expert consensus,,ISIC_0012019,
+617,85,benign,,single image expert consensus,,ISIC_0012020,
+618,40,benign,nevus,histopathology,True,ISIC_0012021,male
+619,30,benign,nevus,histopathology,True,ISIC_0012022,female
+620,30,benign,nevus,histopathology,True,ISIC_0012023,female
+621,65,benign,,histopathology,,ISIC_0012024,female
+622,80,malignant,basal cell carcinoma,histopathology,False,ISIC_0012025,male
+623,85,benign,,single image expert consensus,,ISIC_0012026,
+624,35,benign,lentigo simplex,histopathology,True,ISIC_0012027,female
+625,55,benign,,histopathology,,ISIC_0012028,female
+626,80,benign,,histopathology,,ISIC_0012029,male
+627,85,benign,,histopathology,,ISIC_0012030,female
+628,65,benign,,histopathology,,ISIC_0012031,male
+629,65,benign,,histopathology,,ISIC_0012032,male
+630,65,benign,,histopathology,,ISIC_0012033,male
+631,65,benign,,histopathology,,ISIC_0012034,male
+632,65,benign,,histopathology,,ISIC_0012035,male
+633,65,benign,,histopathology,,ISIC_0012036,male
+634,85,benign,,single image expert consensus,,ISIC_0012037,female
+635,85,benign,,single image expert consensus,,ISIC_0012038,female
+636,25,benign,nevus,histopathology,True,ISIC_0012039,female
+637,70,malignant,basal cell carcinoma,histopathology,False,ISIC_0012040,male
+638,30,benign,,histopathology,,ISIC_0012041,female
+639,85,benign,nevus,histopathology,True,ISIC_0012042,male
+640,85,,,histopathology,,ISIC_0012043,male
+641,55,malignant,melanoma,histopathology,True,ISIC_0012044,female
+642,70,benign,lentigo simplex,histopathology,True,ISIC_0012045,female
+643,70,benign,lentigo simplex,histopathology,True,ISIC_0012046,female
+644,40,malignant,melanoma,histopathology,True,ISIC_0012047,male
+645,40,malignant,melanoma,histopathology,True,ISIC_0012048,female
+646,45,malignant,melanoma,histopathology,True,ISIC_0012049,male
+647,45,benign,,histopathology,,ISIC_0012050,male
+648,35,benign,nevus,histopathology,True,ISIC_0012051,female
+649,85,benign,,histopathology,,ISIC_0012052,female
+650,20,benign,nevus,histopathology,True,ISIC_0012053,female
+651,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0012054,male
+652,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0012055,male
+653,10,benign,nevus,histopathology,True,ISIC_0012056,male
+654,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0012057,female
+655,60,benign,nevus,histopathology,True,ISIC_0012058,male
+656,75,benign,,histopathology,,ISIC_0012059,male
+657,65,malignant,melanoma,histopathology,True,ISIC_0012060,male
+658,85,benign,,histopathology,,ISIC_0012061,male
+659,20,benign,nevus,histopathology,True,ISIC_0012062,female
+660,85,malignant,melanoma,histopathology,True,ISIC_0012063,
+661,85,malignant,melanoma,histopathology,True,ISIC_0012064,
+662,85,malignant,melanoma,histopathology,True,ISIC_0012065,
+663,85,malignant,melanoma,histopathology,True,ISIC_0012066,
+664,85,malignant,melanoma,histopathology,True,ISIC_0012067,
+665,85,malignant,melanoma,histopathology,True,ISIC_0012068,
+666,85,malignant,melanoma,histopathology,True,ISIC_0012069,
+667,85,malignant,basal cell carcinoma,histopathology,False,ISIC_0012070,male
+668,45,benign,lentigo simplex,histopathology,True,ISIC_0012071,male
+669,45,benign,lentigo simplex,histopathology,True,ISIC_0012072,male
+670,45,benign,,single image expert consensus,,ISIC_0012073,male
+671,75,malignant,,histopathology,,ISIC_0012074,male
+672,65,malignant,basal cell carcinoma,histopathology,False,ISIC_0012075,female
+673,45,benign,lentigo simplex,histopathology,True,ISIC_0012076,male
+674,45,benign,lentigo simplex,histopathology,True,ISIC_0012077,male
+675,70,benign,nevus,histopathology,True,ISIC_0012078,male
+676,85,malignant,squamous cell carcinoma,histopathology,False,ISIC_0012079,male
+677,20,benign,nevus,histopathology,True,ISIC_0012080,female
+678,15,malignant,melanoma,histopathology,True,ISIC_0012081,female
+679,15,malignant,melanoma,histopathology,True,ISIC_0012082,female
+680,60,malignant,melanoma,histopathology,True,ISIC_0012083,male
+681,55,benign,angioma,histopathology,False,ISIC_0012084,male
+682,25,benign,nevus,histopathology,True,ISIC_0012085,male
