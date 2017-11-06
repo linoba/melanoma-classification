@@ -10,13 +10,41 @@ Created on Fri Nov  3 10:54:47 2017
 import pandas
 import numpy as np
 import shutil
+import os
 
 
 
 #this is the path to your data folder
 PATH_pictures = "/home/bombus/02456-deep-learning/Project/Data/ISIC_MSK-2_1/"
-PATH_benign = "/home/bombus/02456-deep-learning/Project/Data/ISIC_MSK-2_1_sorted/Benign/"
-PATH_malignant = "/home/bombus/02456-deep-learning/Project/Data/ISIC_MSK-2_1_sorted/Malignant/"
+PATH_benign = "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-2_1_sorted/train/Benign/"
+PATH_malignant = "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-2_1_sorted/train/Malignant/"
+PATH_test = "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-2_1_sorted/test/"
+PATH_validation = "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-2_1_sorted/validation/"
+path_train= "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-2_1_sorted/train/"
+
+filesmalignant= os.listdir(PATH_malignant)
+filesbenign = os.listdir(PATH_benign)
+
+
+
+def split_data(path_test,path_validation):
+    # approx 0.6 to training, 0.2 to validation, 0.2 to test
+    filesmalignant= os.listdir(PATH_malignant)
+    filesbenign = os.listdir(PATH_benign)
+    for file in filesmalignant[:70]:
+        shutil.move(path_train+'Malignant/'+file, PATH_validation+'Malignant')
+    for file in filesmalignant[70:70+70]:
+        shutil.move(path_train+'Malignant/'+file, PATH_test+'Malignant') 
+    for file in filesbenign[:233]:
+        shutil.move(path_train+'Benign/'+file, PATH_validation+'Benign')
+    for file in filesbenign[233:233+234]:
+        shutil.move(path_train+'Benign/'+file, PATH_test+'Benign')  
+        
+
+        
+
+
+
 
 
 def filename_label(analysis_filename):
@@ -43,4 +71,4 @@ def sort_folder(data_array):
             print("different_label",row,data)
             notsorted.append(data)
             
-sort_folder(data_array)        
+#sort_folder(data_array)        
