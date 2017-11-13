@@ -1,0 +1,4 @@
+wget "www.dominikmorgen.de/data/ISIC_MSK-2_1_sorted.zip"
+unzip ISIC_MSK-2_1_sorted.zip
+git clone https://github.com/linoba/melanoma-classification
+mv melanoma-classification data
