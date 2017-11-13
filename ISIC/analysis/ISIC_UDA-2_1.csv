@@ -1,0 +1,61 @@
+,age_approx,benign_malignant,diagnosis,diagnosis_confirm_type,id,melanocytic,name,sex
+0,85,malignant,melanoma,histopathology,54e755f3bae47850e86cdfc7,True,ISIC_0001100,male
+1,85,malignant,melanoma,histopathology,54e755f3bae47850e86cdfcc,True,ISIC_0001101,female
+2,50,malignant,melanoma,histopathology,54e755f4bae47850e86cdfd1,True,ISIC_0001102,female
+3,80,malignant,melanoma,histopathology,54e755f4bae47850e86cdfd6,True,ISIC_0001103,male
+4,75,benign,seborrheic keratosis,histopathology,54e755f4bae47850e86cdfdb,False,ISIC_0001104,male
+5,35,malignant,melanoma,histopathology,54e755f5bae47850e86cdfe0,True,ISIC_0001105,male
+6,70,malignant,melanoma,histopathology,54e755f5bae47850e86cdfe5,True,ISIC_0001106,male
+7,55,benign,lichenoid keratosis,histopathology,54e755f5bae47850e86cdfea,False,ISIC_0001107,female
+8,75,malignant,melanoma,histopathology,54e755f6bae47850e86cdfef,True,ISIC_0001108,male
+9,40,benign,nevus,histopathology,54e755f6bae47850e86cdff4,True,ISIC_0001109,male
+10,70,malignant,melanoma,histopathology,54e755f7bae47850e86cdff9,True,ISIC_0001110,male
+11,60,benign,nevus,histopathology,54e755f7bae47850e86cdffe,True,ISIC_0001111,male
+12,80,malignant,melanoma,histopathology,54e755f8bae47850e86ce003,True,ISIC_0001112,female
+13,80,benign,seborrheic keratosis,histopathology,54e755f8bae47850e86ce008,False,ISIC_0001113,male
+14,85,benign,dermatofibroma,histopathology,54e755f8bae47850e86ce00d,False,ISIC_0001114,
+15,85,benign,angioma,histopathology,54e755f8bae47850e86ce012,False,ISIC_0001115,
+16,75,malignant,melanoma,histopathology,54e755f9bae47850e86ce017,True,ISIC_0001116,female
+17,85,benign,nevus,histopathology,54e755f9bae47850e86ce01c,True,ISIC_0001117,
+18,70,malignant,melanoma,histopathology,54e755fabae47850e86ce021,True,ISIC_0001118,male
+19,55,malignant,melanoma,histopathology,54e755fabae47850e86ce026,True,ISIC_0001119,male
+20,60,malignant,basal cell carcinoma,histopathology,54e755fabae47850e86ce02b,False,ISIC_0001120,male
+21,85,malignant,melanoma,histopathology,54e755fbbae47850e86ce030,True,ISIC_0001121,male
+22,45,benign,nevus,histopathology,54e755fbbae47850e86ce035,True,ISIC_0001122,male
+23,70,benign,seborrheic keratosis,histopathology,54e755fbbae47850e86ce03a,False,ISIC_0001123,male
+24,60,malignant,melanoma,histopathology,54e755fcbae47850e86ce03f,True,ISIC_0001124,male
+25,80,malignant,melanoma,histopathology,54e755fcbae47850e86ce044,True,ISIC_0001125,male
+26,65,malignant,melanoma,histopathology,54e755fcbae47850e86ce049,True,ISIC_0001126,male
+27,65,malignant,melanoma,histopathology,54e755fdbae47850e86ce04e,True,ISIC_0001127,male
+28,40,malignant,melanoma,histopathology,54e755fdbae47850e86ce053,True,ISIC_0001128,male
+29,50,benign,angioma,histopathology,54e755fdbae47850e86ce058,False,ISIC_0001129,female
+30,85,benign,dermatofibroma,histopathology,54e755febae47850e86ce05d,False,ISIC_0001130,
+31,45,malignant,melanoma,histopathology,54e755febae47850e86ce062,True,ISIC_0001131,male
+32,50,malignant,melanoma,histopathology,54e755febae47850e86ce067,True,ISIC_0001132,male
+33,65,malignant,melanoma,histopathology,54e755ffbae47850e86ce06c,True,ISIC_0001133,male
+34,65,malignant,melanoma,histopathology,54e755ffbae47850e86ce071,True,ISIC_0001134,male
+35,60,malignant,melanoma,histopathology,54e755ffbae47850e86ce076,True,ISIC_0001135,female
+36,30,benign,nevus,histopathology,54e75600bae47850e86ce07b,True,ISIC_0001136,female
+37,60,malignant,melanoma,histopathology,54e75600bae47850e86ce080,True,ISIC_0001137,male
+38,65,malignant,melanoma,histopathology,54e75600bae47850e86ce085,True,ISIC_0001138,male
+39,25,benign,nevus,histopathology,54e75600bae47850e86ce08a,True,ISIC_0001139,male
+40,50,malignant,melanoma,histopathology,54e75601bae47850e86ce08f,True,ISIC_0001140,female
+41,70,malignant,melanoma,histopathology,54e75601bae47850e86ce094,True,ISIC_0001141,female
+42,70,malignant,melanoma,histopathology,54e75601bae47850e86ce099,True,ISIC_0001142,female
+43,75,malignant,melanoma,histopathology,54e75602bae47850e86ce09e,True,ISIC_0001143,male
+44,60,benign,seborrheic keratosis,histopathology,54e75602bae47850e86ce0a3,False,ISIC_0001144,male
+45,80,benign,seborrheic keratosis,histopathology,54e75602bae47850e86ce0a8,False,ISIC_0001145,female
+46,50,benign,nevus,histopathology,54e75603bae47850e86ce0ad,True,ISIC_0001146,male
+47,65,benign,nevus,histopathology,54e75603bae47850e86ce0b2,True,ISIC_0001147,female
+48,85,malignant,melanoma,histopathology,54e75603bae47850e86ce0b7,True,ISIC_0001148,male
+49,60,malignant,basal cell carcinoma,histopathology,54e75604bae47850e86ce0bc,False,ISIC_0001149,male
+50,85,benign,nevus,histopathology,54e75604bae47850e86ce0c1,True,ISIC_0001150,male
+51,60,malignant,melanoma,histopathology,54e75604bae47850e86ce0c6,True,ISIC_0001151,female
+52,25,malignant,melanoma,histopathology,54e75604bae47850e86ce0cb,True,ISIC_0001152,male
+53,55,benign,nevus,histopathology,54e75605bae47850e86ce0d0,True,ISIC_0001153,male
+54,35,malignant,melanoma,histopathology,54e75605bae47850e86ce0d5,True,ISIC_0001154,female
+55,60,benign,nevus,histopathology,54e75606bae47850e86ce0da,True,ISIC_0001155,male
+56,75,benign,seborrheic keratosis,histopathology,54e75606bae47850e86ce0df,False,ISIC_0001156,male
+57,75,malignant,melanoma,histopathology,54e75606bae47850e86ce0e4,True,ISIC_0001157,male
+58,85,benign,nevus,histopathology,54e75607bae47850e86ce0e9,True,ISIC_0001158,
+59,80,malignant,basal cell carcinoma,histopathology,54e75608bae47850e86ce0ee,False,ISIC_0001159,female
