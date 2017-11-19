@@ -2,10 +2,12 @@
 
 echo "Preparing for execution."
 
+echo "Downloading repository."
 git clone https://github.com/linoba/melanoma-classification
+echo "Downloading done."
 
 echo "Downloading images."
-wget "x/data/ISIC_MSK-2_1_sorted.zip"
+wget "www.dominikmorgen.de/data/ISIC_MSK-2_1_sorted.zip"
 echo "Downloading done."
 
 unzip ISIC_MSK-2_1_sorted.zip
