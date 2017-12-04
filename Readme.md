@@ -1,7 +1,34 @@
-README
 
+# Overview
 
 # ISIC
+
+## ISIC datasets
+
+http://isic-archive.com/
+
+Currently using:
+- ISIC_MSK-2_1
+
+identified as possibly usable:
+- ISIC_MSK-1_1
+- ISIC_MSK-1_2
+- ISIC_MSK-2_1
+- ISIC_MSK-4_1
+- ISIC_UDA-1_1
+- ISIC_UDA-2_1
+
+metadata and information: view **ISIC/csv_metadata/**
+
+
+## Running it all
+
+To run the scripts and notebooks, follow these steps:
+1. read and execute ISIC/notebooks_metadata_and_images/get_3_images.ipynb
+1. sort files by e.g. using script ISIC/dataordering.py
+1. update ISIC/preparing.sh
+1. run notebooks in (numbered) order
+
 
 
 ## Working with a Spot Instance
@@ -24,3 +51,8 @@ Continue with:
 4. Open the notebook you want to run
 5. Make sure that the path to your datafolder is set to the path you copied above with the suffix "/data/"
 6. Run your tests
+
+
+# Cats_and_dogs
+
+Code taken from tutorial.
