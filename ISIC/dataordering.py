@@ -1,18 +1,7 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Nov  3 10:54:47 2017
-
-@author: bombus
-"""
-
-
 import pandas
 import numpy as np
 import shutil
 import os
-
-
 
 #this is the path to your data folder
 PATH_pictures = "/home/bombus/02456-deep-learning/Project/Data/ISIC_MSK-2_1/"
@@ -24,8 +13,6 @@ path_train= "/home/bombus/Project/Project/melanoma-classification/Data/ISIC_MSK-
 
 filesmalignant= os.listdir(PATH_malignant)
 filesbenign = os.listdir(PATH_benign)
-
-
 
 def split_data(path_test,path_validation):
     # approx 0.6 to training, 0.2 to validation, 0.2 to test
@@ -39,13 +26,6 @@ def split_data(path_test,path_validation):
         shutil.move(path_train+'Benign/'+file, PATH_validation+'Benign')
     for file in filesbenign[233:233+234]:
         shutil.move(path_train+'Benign/'+file, PATH_test+'Benign')  
-        
-
-        
-
-
-
-
 
 def filename_label(analysis_filename):
     #inputs: The file name where the analysis data is 
