@@ -1,0 +1,40 @@
+0 (first runs; 800 images in training set)
+
+1 (first time 1100 images in train)
+
+2 (more aggressive values)
+
+
+train_datagen_1 = ImageDataGenerator(
+        rescale=1. / 255,
+        rotation_range=180,
+        width_shift_range=0.2,
+        height_shift_range=0.2,
+        shear_range=0.2,
+        zoom_range=0.2,
+        horizontal_flip=True,
+        fill_mode='nearest')
+
+train_datagen_2 = ImageDataGenerator(
+        rescale=1. / 255,
+        rotation_range=360,
+        width_shift_range=0,
+        height_shift_range=0,
+        shear_range=0.2,
+        zoom_range=0.1,
+        vertical_flip=True,
+        horizontal_flip=True,
+        fill_mode='nearest')
+
+train_datagen_3 = ImageDataGenerator(
+        rescale=1. / 255,
+        rotation_range=180,
+        width_shift_range=0.3,
+        height_shift_range=0.3,
+        shear_range=0.2,
+        zoom_range=0.3,
+        horizontal_flip=True,
+        vertical_flip=True,
+        fill_mode='nearest')
+
+train_datagen = [train_datagen_1, train_datagen_2, train_datagen_3]
