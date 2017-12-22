@@ -1,4 +1,0 @@
-zip -r zipfile.zip download/
- 
-zip -r zipfile.zip data/
- 
