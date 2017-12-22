@@ -52,6 +52,10 @@ Continue with:
 5. Make sure that the path to your datafolder is set to the path you copied above with the suffix "/data/"
 6. Run your tests
 
+## Weight files
+
+Our best result with file 4_10.h5 can be found here: www.dominikmorgen.de/data/dl/4_110epochs.zip
+
 
 # Cats_and_dogs
 
