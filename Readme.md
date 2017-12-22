@@ -25,7 +25,7 @@ metadata and information: view **ISIC/csv_metadata/**
 
 To run the scripts and notebooks, follow these steps:
 1. read and execute ISIC/notebooks_metadata_and_images/get_3_images.ipynb
-1. sort files by e.g. using script ISIC/dataordering.py
+1. sort files by e.g. using script ISIC/dataordering.py or split with ISIC/0_datasplitting.ipynb
 1. update ISIC/preparing.sh
 1. run notebooks in (numbered) order
 
