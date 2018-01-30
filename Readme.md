@@ -54,7 +54,7 @@ Continue with:
 
 ## Weight files
 
-Our best result with file 4_10.h5 can be found here: www.dominikmorgen.de/data/dl/4_110epochs.zip
+Our best result with file 4_110.h5 can be found here: https://files.fm/f/n69jjnpu
 
 
 # Cats_and_dogs
